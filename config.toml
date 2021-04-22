@@ -1,0 +1,46 @@
+baseurl = "https://smoliva.blog"
+title = "S.M. Oliva"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+
+[Author]
+  name = "S.M. Oliva"
+  bio = "S.M. Oliva is a writer living in Virginia."
+  avatar = "img/avatar.jpg"
+
+[Params]
+  description = "John Doe's Personal blog about everything" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  copyright = "S.M. Oliva, LLC"
+
+[Params.logo]
+  subtitle = "My Personal Blog" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["social", "recent", "categories", "taglist"]
+
+[Params.style.vars]
+  highlightColor = "#93278e" # Override highlight color
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  email = "smo@smoliva.com"
+  github = "smoliva"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://mastodon.social/@smoliva"

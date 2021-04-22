@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on S.M. Oliva</title>
+    <link>https://smoliva.blog/tags/linux/</link>
+    <description>Recent content in Linux on S.M. Oliva</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Desktop Linux in 2021</title>
+      <link>https://smoliva.blog/post/using-desktop-linux-in-2021/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://smoliva.blog/post/using-desktop-linux-in-2021/</guid>
+      <description>A few days ago, I purchased an iPad. This is my first Apple device in awhile, so I decided to check and see if my Apple ID still worked. It did, albeit after going through the process of resetting my long-forgotten password.
+To my slight surprise, this was the first time I&amp;rsquo;d used my Apple ID since 2012. That was the year I moved away from OS X to Linux as my everyday operating system.</description>
+    </item>
+    
+  </channel>
+</rss>
