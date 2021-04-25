@@ -6,7 +6,16 @@
     <description>Recent content in Linux on S.M. Oliva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging with Hugo, Part 1</title>
+      <link>https://smoliva.blog/post/blogging-with-hugo-1/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://smoliva.blog/post/blogging-with-hugo-1/</guid>
+      <description>In developing my new blog, I opted to build a static website using Hugo and other open source software tools, as opposed to using an all-in-one commercial service like Squarespace or WordPress. There are certain advantages to this DIY approach, as well as drawbacks. So in this series of posts, I&amp;rsquo;ll walk through my thought process in deciding to use Hugo and explain the steps I took in building this blog &amp;ldquo;from scratch.</description>
+    </item>
+    
     <item>
       <title>Using Desktop Linux in 2021</title>
       <link>https://smoliva.blog/post/using-desktop-linux-in-2021/</link>
