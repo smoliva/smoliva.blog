@@ -6,7 +6,17 @@
     <description>Recent content on S.M. Oliva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging with Hugo, Part 2</title>
+      <link>https://smoliva.blog/post/blogging-with-hugo-2/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://smoliva.blog/post/blogging-with-hugo-2/</guid>
+      <description>In Part 1, I explained my decision to go with Hover for domain registation and Linode for the virtual private server (VPS) I use for this blog. Now, I&amp;rsquo;ll briefly review the process of setting up the VPS and getting it to work with my domain.
+Obviously, I relied principally on documentation prepared by others. Specifically, I used how-tos published by both Linode and one of its competitors, Digital Ocean. I actually find the Digital Ocean documentation a bit easier to read and follow.</description>
+    </item>
+    
     <item>
       <title>Blogging with Hugo, Part 1</title>
       <link>https://smoliva.blog/post/blogging-with-hugo-1/</link>
