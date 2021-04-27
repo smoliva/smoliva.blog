@@ -6,7 +6,17 @@
     <description>Recent content in Linux on S.M. Oliva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogging with Hugo, Part 3</title>
+      <link>https://smoliva.blog/post/blogging-with-hugo-3/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://smoliva.blog/post/blogging-with-hugo-3/</guid>
+      <description>My last post detailed the process of setting up the virtual private server (VPS) to host this blog. In this final post, I&amp;rsquo;ll go into the mechanics of actually developing the blog using Hugo.
+If you&amp;rsquo;re not familiar with Hugo, it is software written in the Go language to function as a static website generator. Static means the entire website is generated at once, as opposed to a dynamic content management system like WordPress, which builds a particular page upon request from a database.</description>
+    </item>
+    
     <item>
       <title>Blogging with Hugo, Part 2</title>
       <link>https://smoliva.blog/post/blogging-with-hugo-2/</link>

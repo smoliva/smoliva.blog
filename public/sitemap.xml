@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smoliva.blog/post/blogging-with-hugo-2/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <loc>https://smoliva.blog/post/blogging-with-hugo-3/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smoliva.blog/categories/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/git/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/hugo/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/linux/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/markdown/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/mastodon/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/categories/open-source/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/post/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/rsync/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/ssh/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/tags/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://smoliva.blog/post/blogging-with-hugo-2/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smoliva.blog/tags/debian/</loc>
@@ -17,28 +53,7 @@
     <loc>https://smoliva.blog/tags/hover/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://smoliva.blog/tags/hugo/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://smoliva.blog/tags/linode/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/tags/linux/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/categories/open-source/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/post/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/tags/ssh/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://smoliva.blog/tags/</loc>
     <lastmod>2021-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://smoliva.blog/post/blogging-with-hugo-1/</loc>
