@@ -6,7 +6,16 @@
     <description>Recent content in Categories on S.M. Oliva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://smoliva.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Reports</title>
+      <link>https://smoliva.blog/categories/book-reports/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://smoliva.blog/categories/book-reports/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Open Source</title>
       <link>https://smoliva.blog/categories/open-source/</link>
