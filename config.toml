@@ -27,7 +27,7 @@ theme = "mainroad"
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["social", "recent", "categories", "taglist"]
+  widgets = ["social", "recent", "categories", "blogroll"]
 
 [Params.style.vars]
   highlightColor = "#93278e" # Override highlight color
@@ -44,3 +44,44 @@ theme = "mainroad"
 [[Params.widgets.social.custom]]
   title = "Mastodon"
   url = "https://mastodon.social/@smoliva"
+
+[[Params.widgets.blogroll.custom]]
+  title = "512 Pixels"
+  url = "https://512pixels.net"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Alan Pope's Blog"
+  url = "https://popey.com/blog/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "By Ken Levine"
+  url = "http://kenlevine.blogspot.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "How Appealing"
+  url = "https://howappealing.abovethelaw.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Liss is More"
+  url = "https://www.caseyliss.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "OMG! Ubuntu!"
+  url = "https://www.omgubuntu.co.uk/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The Charlottesville 29"
+  url = "https://charlottesville29.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The CRPG Addict"
+  url = "https://crpgaddict.blogspot.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The Time of Monsters"
+  url = "https://jeetheer.substack.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Tiny House Giant Journey"
+  url = "https://tinyhousegiantjourney.com/blog/"
+  

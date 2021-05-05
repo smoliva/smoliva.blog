@@ -1131,6 +1131,24 @@ textarea {
 	fill: #fff;
 }
 
+/* Blogroll widget */
+.widget-blogroll__item {
+	padding: 0;
+	border: 0;
+}
+
+.widget-blogroll__link {
+	display: block;
+	margin: 0 0 8px;
+	white-space: normal;
+}
+
+.widget-blogroll__link-icon {
+	margin: 0 5px 0 0;
+	vertical-align: middle;
+	fill: #fff;
+}
+
 /* Tags Widget */
 .widget-taglist__link {
 	display: inline-block;
