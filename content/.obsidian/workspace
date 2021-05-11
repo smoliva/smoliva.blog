@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "post/catherine-the-great.md",
+            "file": "post/blogging-with-hugo-3.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/catherine-the-great.md",
+                "file": "post/blogging-with-hugo-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "8b6ede35ff4c009b",
   "lastOpenFiles": [
-    "post/catherine-the-great.md",
     "post/blogging-with-hugo-3.md",
+    "post/catherine-the-great.md",
     "post/Untitled.md",
     "post/blogging-with-hugo-2.md",
     "post/blogging-with-hugo-1.md",

@@ -45,6 +45,10 @@ theme = "mainroad"
   title = "Mastodon"
   url = "https://mastodon.social/@smoliva"
 
+[[Params.widgets.social.custom]]
+  title = "RSS"
+  url = "https://smoliva.blog/index.xml"
+
 [[Params.widgets.blogroll.custom]]
   title = "512 Pixels"
   url = "https://512pixels.net"

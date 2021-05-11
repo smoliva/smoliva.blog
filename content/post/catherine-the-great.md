@@ -18,7 +18,7 @@ tags:
   
 ---
 
-While perusing the offerings from my local library online, a biography of Catherine the Great--the former Empress Catherine II of Russia--caught my eye. I knew next-to-nothing about Catherine. to be honest, I only recognized the name because I had played her as a character a few times in *Sid Meier's Civilization IV*. But I always enjoy a good biography, so I decided to rent and read this particular book, [*Catherine the Great: Portrait of a Woman*](https://www.goodreads.com/book/show/10414941-catherine-the-great) by [Robert K. Massie](https://www.nytimes.com/2019/12/02/books/robert-k-massie-dead.html).
+While perusing the offerings from my local library online, a biography of Catherine the Great--the former Empress Catherine II of Russia--caught my eye. I knew next-to-nothing about Catherine. To be honest, I only recognized the name because I had played her as a character a few times in *Sid Meier's Civilization IV*. But I always enjoy a good biography, so I decided to rent and read this particular book, [*Catherine the Great: Portrait of a Woman*](https://www.goodreads.com/book/show/10414941-catherine-the-great) by [Robert K. Massie](https://www.nytimes.com/2019/12/02/books/robert-k-massie-dead.html).
 
 The basic story of Catherine's rise to power is pretty wild by modern standards. For one thing, she wasn't even Russian. And she wasn't born with the name Catherine. She was a German princess, Sophia Augusta Fredericka, the daughter of a minor prince who ruled Anhalt-Zerbst, which today is part of the German state of Saxony-Anhalt. Sophia's mother, Johanna, was a princess from another minor German state, Holstein-Gottorp. 
 
