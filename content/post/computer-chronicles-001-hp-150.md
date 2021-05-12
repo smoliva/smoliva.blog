@@ -1,5 +1,5 @@
 ---
-title: Computer Chronicles Revisited, Part 1 -- The HP-150 Touchscreen
+title: Computer Chronicles Revisited, Part 1 — The HP-150 Touchscreen
 description: The Computer Chronicles discusses the evolution of computers from mainframes to minis to micros.
 date: 2021-05-11
 thumbnail: "img/hp-150.png"

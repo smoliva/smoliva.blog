@@ -1,5 +1,5 @@
 ---
-title: Catherine the Great--The Progressive Russian Autocrat?
+title: Catherine the Great — The Progressive Russian Autocrat?
 description: What an 18th century Russian empress can teach us about 21st century America.
 date: 2021-05-04
 thumbnail: "img/catherine.jpg"
