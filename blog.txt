@@ -1,0 +1,2 @@
+rsync -avz -e ssh public/ lhasbrouck@smoliva.blog:/var/www/smoliva.blog
+
