@@ -101,6 +101,7 @@ In 1995, Coleman co-founded and served as chairman of BEA Systems, an enterprise
 ## Notes from the Random Access File
 
 + This episode was recorded at KCSM-TV on October 24, 1983, and first broadcast on February 12, 1984--three weeks after the famous "1984" ad announcing the launch of the Macintosh.
++ You can watch this episode at the [Internet Archive](https://archive.org/details/Integrat1984). 
 + If you are interested in learning more about the development of Visi On, the [June 1983 issue of *Byte* Magazine](https://archive.org/details/byte-magazine-1983-06/page/n256/mode/1up) published an extensive "guided tour," featuring an extended interview with Bill Coleman. 
 + John Couch has a forthcoming memoir about his time at Apple, [*My Life at Apple: And the Steve I Knew*](https://www.powells.com/book/my-life-at-apple-9781951805845), scheduled for publication on July 13, 2021.
 + Not to forget the other Steve, Couch's winery sells a [2019 Chardonnay named in honor of Woz](https://edenestatewines.com/collections/current-wines/products/2019-woz-chardonnay).
@@ -109,3 +110,4 @@ In 1995, Coleman co-founded and served as chairman of BEA Systems, an enterprise
 + For all the emphasis tat modern Apple places on making their devices thin and light, it's amusing to note the Lisa weighed in at 48 pounds. And that's not even counting the keyboard, which added an additional 4 pounds. 
 + [Ronald K. Lakis](https://www.imdb.com/name/nm8314423/) was the director of *The Computer Chronicles* during this time. Lakis' only other IMDB credit is for a documentary, [*The UFO Experience*](https://www.youtube.com/watch?v=jU08pQRTFcs), produced in 1982 for KPIX-TV in San Francisco. 
 + One thing I would love to ask Lakis about is his practice of cutting to shots of Stewart Cheifet nodding while the guests are answering a question. It's happened like 3 or 4 times in the episodes I've watched so far. I may need to start keeping a running count. 
++ May 21, 2021, addendum -- After I published this post, Stephen Hackett and Quinn Nelson released an episode of their tech history podcast [*Flashback*](https://www.relay.fm/flashback/19) discussing the Apple Lisa.  
