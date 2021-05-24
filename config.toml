@@ -66,6 +66,10 @@ theme = "mainroad"
   url = "http://kenlevine.blogspot.com/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "FOSS Patents"
+  url = "http://www.fosspatents.com/"
+
+[[Params.widgets.blogroll.custom]]
   title = "How Appealing"
   url = "https://howappealing.abovethelaw.com/"
 
