@@ -82,6 +82,10 @@ theme = "mainroad"
   url = "https://www.omgubuntu.co.uk/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "Stargirl Flowers"
+  url = "https://blog.thea.codes/"
+
+[[Params.widgets.blogroll.custom]]
   title = "The Charlottesville 29"
   url = "https://charlottesville29.com/"
 
@@ -96,4 +100,7 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "Tiny House Giant Journey"
   url = "https://tinyhousegiantjourney.com/blog/"
-  
+
+[[Params.widgets.blogroll.custom]]
+  title = "Video Game History Foundation"
+  url = "https://gamehistory.org/blog/"
