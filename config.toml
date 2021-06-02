@@ -40,6 +40,7 @@ theme = "mainroad"
   # Enable parts of social widget
   email = "smo@smoliva.com"
   github = "smoliva"
+  twitter = "ChronRevisited"
 
 [[Params.widgets.social.custom]]
   title = "Mastodon"
