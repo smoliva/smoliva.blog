@@ -105,3 +105,7 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "Video Game History Foundation"
   url = "https://gamehistory.org/blog/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Working Title"
+  url = "https://workingtitlebookshop.wordpress.com/"
