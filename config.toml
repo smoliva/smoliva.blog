@@ -10,7 +10,7 @@ theme = "mainroad"
   avatar = "img/avatar.jpg"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "A blog about the Computer Chronicles and other topics." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -27,7 +27,7 @@ theme = "mainroad"
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["ddg-search", "social", "recent", "categories", "blogroll"]
+  widgets = ["categories", "social", "blogroll"]
 
 [Params.style.vars]
   highlightColor = "#93278e" # Override highlight color
@@ -93,6 +93,10 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "The CRPG Addict"
   url = "https://crpgaddict.blogspot.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The Digital Antiquarian"
+  url = "https://www.filfre.net/"
 
 [[Params.widgets.blogroll.custom]]
   title = "The Time of Monsters"
