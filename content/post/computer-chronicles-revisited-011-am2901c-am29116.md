@@ -1,0 +1,89 @@
+---
+title: Computer Chronicles Revisited, Part 11 — The Am2901C and Am29116
+description: The Computer Chronicles discusses microchips.
+date: 2021-06-14
+thumbnail: "img/cc-amd.png"
+categories:
+  - "Computer Chronicles Revisited"
+tags:
+  - "Stewart Cheifet"
+  - "Herbert Lechner"
+  - "J. Philip Dowling"
+  - "Clive Ghest"
+  - "AMD"
+---
+
+Computer architecture is usually described in terms of *bits*. For instance, we often speak of early personal computers from the late 1970s and early 1980s as *8-bit machines*. In simple terms, this means that the CPUs in these computers could only address 8 bits of data at a time, with each *bit* representing a single binary digit (0 or 1). But even when the first episodes of *The Computer Chronicles* started to air in late 1983, there were already 16-bit processors on the market, such as the [Intel 8086](https://en.wikipedia.org/wiki/Intel_8086), and 32-bit machines had started to become a reality. 
+
+In today's featured episode of *Chronicles*, recorded in October 1983, Stewart Cheifet and Herbert Lechner interviewed a single guest, J. Philip Dowling of Advanced Micro Devices Inc. (AMD), about his company's microchip technology, including a popular 4-bit chip then in its fourth generation. 
+
+The episode began with Cheifet noting that as processors moved from 8-bit to 16- and 32-bit, the memory capacity of microchips was also increasing. You could now find 16 KB chips and there was talk of 256 KB chips on the horizon. Cheifet asked Lechner how much more stuff could be "jammed" onto these microchips? Lechner said he was embarrassed to admit that when asked the same question 10 years earlier, he thought the technology was approaching its limits, because he assumed that the individual components of computing would continue to be a "few inches or a foot apart." But now that the distance between components had been reduced to microns--one-thousandth of a millimeter--he had been proven wrong. So who knows how far we could go today.
+
+Cheifet then narrated our B-roll for the week, which described the process of turning silicon into microchips. He explained that purified extract silicon was heated until it became molten and a *seed crystal* was then dipped into the melt and slowly drawn out to form a single ingot. This ingot was then sliced into wafers that were polished and microscopically cleaned. These wafers were the foundation of integrated circuits.
+
+The circuits themselves were created using computer-aided design (CAD). Engineers created and edited news designs using a light pen and video screen. A printout of the computer-edited copy was then routinely checked against the hand-drawn design. The final design was converted into a photographic mask and using [photolithography](https://en.wikipedia.org/wiki/Photolithography), transposed onto the silicon wafer. A chemical wash developed the pattern by dissolving away or etching sections exposed through the mask. As each layer of circuitry was applied to the wafer, it was checked for proper alignment. Cheifet said this step was especially critical as large-scale integration was replaced with very-large--and soon super-large--integration, representing a jump from 10,000 to 100,000 transistors on a single chip.
+
+## Could Bipolar, MOS & CMOS Work Together?
+
+Phil Dowling joined Cheifet and Lechner for the remainder of the program. Lechner opened by asking Dowling to provide a quick overview of where microchip technology was today. Dowling said AMD and other manufacturers could put thousands of transistors--virtually an entire computer--onto a single chip. He reiterated Cheifet's earlier narration about the use of photolithography, which made it possible to pattern images as small as 1 micron. This meant it was possible not just to build microprocessors but also memory chips with densities of between 64,000 and 256,000 bits.
+
+Lechner asked if the technology had been exhausted, i.e., had we come as far as we could? Dowling replied no, the trend of the past decade--where the feature size of individual chips went down 10 percent per year--would continue over the next decade. In other words, the industry would be able to reduce feature sizes below 1 micron.
+
+Cheifet asked Dowling to explain how the technology allowed for microchips this small. Dowling said it used to involve simple contact printing. Photographic images were placed onto a plate and brought into contact with the material. Over the last 10 years, AMD had moved to using projection imaging, which allowed them to not only get "very, very fine" feature sizes but also meant less damage to the silicon wafers, as the mask was never in direct contract. As a result, there were fewer defects in the manufacturing process, which in turn made it more economical to product "very complex circuits."
+
+Cheifet followed up, asking if there were more quality control problems--i.e., fewer acceptable chips--as you achieved greater and greater scales of integration. Dowling said that as the feature sizes went down, the number of defects that could be captured during the process do increase. This meant it was essential to maintain cleaner conditions during the manufacturing process. But quality control measures continued to evolve along with the technology. This included *redundancy*, i.e., building extra circuitry into some chips so they could "program out" any faulty portions during testing, leaving "reconstructed good chips."
+
+Lechner asked for more specifics on the process of designing and modifying a microchip. Dowling noted the design process had changed due to advances in the technology. It used to be possible to draw a circuit design on a piece of paper or a graph and translate it directly onto the photographic plates. But these days, when you had 100,000 transistors on a single chip, that was no longer feasible. Instead, you needed CAD to maintain huge files of various geometries that were ultimately translated into a final design. 
+
+Cheifet shifted the conversation to a discussion of heat. Specifically, what were the trade-offs involved as chip designs allowed for "faster and faster movement of electrons" in terms of heat generation? Was there a point where this became a problem? Dowling said yes, it was a problem, and one of the solutions was *complimentary metal-oxide semiconductor* or [CMOS](https://en.wikipedia.org/wiki/CMOS) fabrication. He explained that each logical element on the chip consumed a different amount of power. With [*bipolar technology*](https://en.wikipedia.org/wiki/Bipolar_junction_transistor), each element consumed a large amount of power to obtain very high performance. With another technique, *metal-oxide-silicon transistors* or [MOS](https://en.wikipedia.org/wiki/MOSFET), there was less power consumed per element. But even MOS was unacceptable when it came to building hundreds of thousands of components onto a chip. That was where CMOS came in, as it did not burn any power during static operation. In other words, the transistors only required power when they were swithced on and off. Dowling said this was the key to building more complex chips.
+
+Lechner asked if the three different technologies could be used in the same computer. Dowling replied absolutely, AMD already offered such products. They produced kits that allowed for bipolar, MOS, and CMOS to all work together.
+
+Cheifet asked if microchip technology was getting ahead of our ability to actually apply and use the amount of integration it offered. Dowling said that wasn't his area of expertise. But based on his own work in designing chips using CAD, he already saw the benefit of substituting a great deal of computational ability for clever software design. And having engineering workstations that could process millions of instructions per second was something he and his colleagues definitely used.
+
+Cheifet then asked about the possibility of 4-megabit memory chips. Dowling noted that IBM had recently announced a prototype for a 512-bit dynamic memory chip (DRAM). And Seimconductor Research Corporation had also proposed a project to develop 4-megabit DRAM. Dowling said he thought this would be feasible to accomplish in the next 4 or 5 years.
+
+Cheifet ended this segment by asking if silicon would continue to be the principal material for microchips going forward? Dowling said while there were some applications, such as LEDs and optical chips, where other materials made sense, he believed that for very-large scale integrated circuits, silicon was the material that would dominate for the "foreseeable future."
+
+### The Fourth Generation of 4-Bit Microprocessors
+
+In the final segment, Phil Dowling provided examples of two of AMDs microchips--the Am2901C and the Am29116. The Am2901 chip was first produced in 1975. It was a 4-bit-slice arithmetic-logic unit (ALU). The Am29116, in contrast, was a 16-bit processor with roughly 5 times the component complexity of the Am2901. 
+
+In the thumbnail image for this blog post, you will see Dowling showing off a blown-up photograph of the Am2901C. He pointed out all of the basic components of the chip, including its register file, instruction decoders, memory, and input/output pins. Essentially, the chip took 4 bits of data out of the register file and pumped it through an ALU, which was controlled by the instruction decoder. Cheifet asked for clarification on what the ALU did. Dowling said that was the part of the chip that did the actual work.
+
+The Am2901C was actually the fourth generation of this particular design. Cheifet asked Dowling to explain how the chip was improved each generation. Dowling said first, changes in the photolithography technology meant the lines on the circuit design could get narrower. This made the final design smaller and more economical to build. There were also changes to the underlying bipolar technology, which doubled the operational speed. This meant the fourth-generation Am2901C had seen a 4x performance improvement over the first-generation design.
+
+As has become *Computer Chronicles* tradition by this point, Lechner then asked about the state of U.S. technology relative to the Japanese. Lechner said some observers felt the Japanese were pulling ahead when it came to the design and manufacturing of microchips. Did Dowling agree? Dowling agreed that the Japanese had come a long way. Ten years ago they were not considered a significant factor in the integrated circuit business. But today they were a "very worthy competitor," particularly with respect to memory chips. The Japanese were well regarded for their excellent manufacturing capabilities and capital formation, which did give them a significant edge of U.S. industry. This had pushed AMD and other American companies to be more innovative in the products they built.
+
+Cheifet followed up by asking about the [fifth-generation computer project](https://www.euston96.com/en/fifth-generation-of-computers/) under development in Japan and how that would affect chip technology moving forward. Dowling said that was also not his area of expertise, but he noted you needed very sophisticated distributed processing to implement a fifth-generation system. Inexpensive arrays of microprocessors were going to be the key to such systems.
+
+There was then a brief, confusing exchange about the number of transistors that could be placed on a single chip. Lechner thought 100,000 was the state of the art. Dowling said that was actually too low, and in fact AMD already had chips with 250,000 components. And there were microprocessors on the market with 500,000 components.
+
+Cheifet pivoted to a discussion of standards, echoing the [previous episode's discussion of networking](https://www.smoliva.blog/post/computer-chronicles-revisited-010-sytek-localnet/). Dowling said that AMD was participating in the development of network standards, especially at the lower levels of networking protocols. He said if there was not a good standard defined, it would be hard for companies like AMD to get good parts. And given the company invested years of design activity into its chips, it could not afford to get such standards wrong.
+
+Lechner asked how AMD would handle standards problems as more companies demanded the manufacturing of custom chips. Dowling said there would continue to be a large market for "standard components." But he acknowledged there would also be a growing market for custom and semi-custom parts. He said as companies like AMD continued to automate the design process for standard components, that would actually make it easier to produce more complex custom and semi-custom chips in the future. He noted that many systems manufacturers, such as IBM, were already designing their own chips using available tools.
+
+Cheifet brought the discussion to a close by asking Dowling to predict where the microchip industry would be in five years. Dowling said he expected CMOS to emerge as the dominant technology as it could build chips of a very high complexity without a power consumption problem. Beyond that, he expected to see a continuing evolution of memory technology towards 4-megabit microchips and beyond, especially as the per-bit prices for producing those chips continued to decline.
+
+## AMD's Bit-Slicing Strategy to Enter Microprocessor Market
+
+Unlike many of the companies featured on *Chronicles* to this point, AMD is very much still in business. And the Am2901 integrated circuits had a surprisingly long lifespan. At a 2009 panel hosted by the [Computer History Museum](http://archive.computerhistory.org/resources/text/Oral_History/AMD_2900/102658341.05.01.pdf), former AMD executive Bob McConnell said the company continued to produce revisions of the 2901 until around 2000. 
+
+AMD itself was started in 1969 by Jerry Sanders and seven other individuals, all of whom had left Fairchild Semiconductor. Sven Simonsen, one of those co-founders, said at the Computer History Museum panel that AMD only raised about $1.5 million at startup. Originally, the new company served as a second source for the [Fairchild 9300](https://computerhistory.org/blog/the-rise-of-ttl-how-fairchild-won-a-battle-but-lost-the-war/) integrated circuit. But after Intel introduced its early line of microprocessors, such as the 4-bit [Intel 4004](https://en.wikipedia.org/wiki/Intel_4004), an AMD designer, Clive Ghest, wrote a paper pushing the company to make its own microprocessor.
+
+Ghest told the panel that his initial thought was simply to second source the 8-bit [Intel 8080](https://en.wikipedia.org/wiki/Intel_8080), because he didn't think AMD could afford to make its own competing MOS microprocessor. But then he realized AMD had a lot of expertise with bipolar technology, which would allow them to build their own microprocessor.
+
+As Phil Downing alluded to in his *Chronicles* interview, bipolar was faster than MOS. But you could not pack as many components onto a bipolar microchip. That led AMD to rely on "bit-slicing" for the Am2901. Ghest explained:
+
+>[I]t was inevitable if you were going to build a high-speed bipolar microprocessor in those days that it had to be several chips. And one of the elements which was, I think, the most interesting from the customers’ viewpoint, was the arithmetic processing unit. Normally in computers in those days, the word length for the computer was anything from like, 16 to 32 bits. And you certainly couldn’t put that much on one chip. So what you could do is to slice that unit into several pieces. And therefore one of the most logical ways of doing it was to build a four-bit slice. Then you could use several of them to build up an 8-bit or 12-bit, 16, or 32-bit microprocessor. So we decided on a 4-bit high-speed bipolar processing unit. And that became the 2901.
+
+The other microprocessor discussed by Downing on *Chronicles*, the Am29116, was released by AMD in 1981. It was a 16-bit bit-sliced processor. Bob McConnell recalled in 2009 that the 29116 was "slow to take off" in the market. Yet according to [The CPU Shack Museum](http://www.cpushack.com/2013/08/31/amd-am29116-a-bit-better-than-a-bit-slice-processor/), the Am29116 was manufactured well into the late 1990s and widely used "in control systems, video system, telecom products and many military applications."
+
+As for Phil Downing, he began working at AMD in the mid-1970s. Like AMD's founders, Downing also had a prior stint at Fairchild. He stayed at AMD until 1989. He then joined Zilog, Inc., the manufacturer of the Z80 microprocessor, where he was [named senior vice president for technology in 1992](https://www.nytimes.com/1992/04/24/business/executive-changes-364392.html) and later worked for National Semiconductor. 
+
+## Notes from the Random Access File
+
++ This episode was recorded on October 19, 1983. It is available on the [Internet Archive](https://archive.org/details/Microchi1984), which lists a publication date of April 23, 1984.
++ If, like me, you don't know anything about arithmetic and logic units (ALUs), which Stewart Cheifet asked about during the discussion of the Am2901C, I recommend the [Crash Course Computer Science](https://www.youtube.com/watch?v=1I5ZMmrOfnA) video on the subject presented by [Carrie Anne Philbin](https://about.me/carrieannephilbin) of the Raspberry Pi Foundation. 
++ Gary Kildall did not appear in this episode. But he was apparently quite familiar with the Am2901. At the Computer History Museum panel, Former AMD engineer John R. Mick said the company produced a development computer for its microprocessor called System 29, which signed the "first OEM contract" with Kildall to use Digital Research's CP/M operating system.
+

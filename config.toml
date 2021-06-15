@@ -27,7 +27,7 @@ theme = "mainroad"
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["categories", "social", "blogroll"]
+  widgets = ["sidemenu", "categories", "social", "blogroll"]
 
 [Params.style.vars]
   highlightColor = "#93278e" # Override highlight color
