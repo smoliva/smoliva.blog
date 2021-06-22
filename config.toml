@@ -67,6 +67,10 @@ theme = "mainroad"
   url = "http://kenlevine.blogspot.com/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "DFIR Diva"
+  url = "https://dfirdiva.com/hooked-on-osint/"
+
+[[Params.widgets.blogroll.custom]]
   title = "FOSS Patents"
   url = "http://www.fosspatents.com/"
 
