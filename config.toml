@@ -71,6 +71,10 @@ theme = "mainroad"
   url = "https://dfirdiva.com/hooked-on-osint/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "Ed Zitron's Where's Your Ed At"
+  url = "https://ez.substack.com/"
+
+[[Params.widgets.blogroll.custom]]
   title = "FOSS Patents"
   url = "http://www.fosspatents.com/"
 
