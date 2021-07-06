@@ -1,0 +1,107 @@
+---
+title: Computer Chronicles Revisited, Part 17 — Alan Shugart and the Memorex 3680
+description: The Computer Chronicles discusses storage devices.
+date: 2021-07-05
+thumbnail: "img/cc-bubble.png"
+categories:
+  - "Computer Chronicles Revisited"
+tags:
+  - "Stewart Cheifet"
+  - "Gary Kildall"
+  - "Alan Shugart"
+  - "Frank Sordello"
+  - "John Siracusa"
+  - "Marco Arment"
+  - "John C. Dvorak"
+  - "Kenneth Haughton"
+  - "Techmoan"
+  - "Jerome Drexler"
+  - "Memorex"
+  - "Seagate"
+  - "RCA"
+  - "IBM"
+---
+
+[John Siracusa](https://hypercritical.co/), one of the hosts of the [*Accidental Tech Podcast*](https://atp.fm/), is often credited with citing the "infinite timescale" problem when it comes to predicting when a new technology will arrive. The infinite timescale--a somewhat inaccurate description coined by one of Siracusa's co-hosts, [Marco Arment](https://marco.org/)--essentially refers to the notion, "We all agree that this thing will happen at some point in the future, but it won't happen this year, or next year, or the year after that...but it's going to happen eventually." (This particular explanation is paraphrased from [episode 125](https://atp.fm/125) of *ATP*.)
+
+This next episode of *The Computer Chronicles* from 1984 presents one such illustration of the infinite timescale problem. The subject is storage devices, specifically disk drives. At this point in the microcomputer revolution, the 5.25-inch floppy disk is the accepted standard. But a number of new technologies are vying to supplant it. And while Gary Kildall was bullish on at least some of these new technologies eventually gaining mainstream acceptance, one of the guests aggressively pushed back on the idea.
+
+## A Brief History of Computer Storage Devices
+
+Stewart Cheifet opened the episode by noting that while disk drives were still considered a "peripheral" device, it was really a key part of any modern computer system, since you could not run many serious applications without a disk drive. Kildall agreed, adding that the traditional model of a computer included a backup storage drive, a CPU, and main memory. The scaling down of all three of these components is what led to the microcomputer revolution in the first place. For example, semiconductor-based memory chips started to replace [core memory](https://en.wikipedia.org/wiki/Magnetic-core_memory) in the early 1970s. But it wasn't until floppy disks that we had a complete computer system that was useful to ordinary people. 
+
+Kildall said it was also interesting that the disk drive remained the only key component of the computer that still relied on mechanical parts. He was interested to see if that would continue or if disk drives would start to become more semiconductor-based.
+
+Cheifet then narrated our B-roll for this episode, providing a brief overview of mass storage technology. He said progress in the field of mass storage was directed by three needs: volume and density of information, and the speed of accessing that information. In the 1950s, computer storage borrowed the recording technology used by sound engineers, i.e., magnetic tape. Like its earliest predcessor, the [wire recorder](https://museumofmagneticsoundrecording.org/Wire.html), modern oxide tapes stored data sequentially. So to reach information stored near the end of a reel, the user had to run through everything on the tape up to that point. Short of developing faster tape drives, the only way to make the data more accessible was to change the format of the recording medium itself.
+
+Disk storage, which allowed for *random access* to information, was already in development in the mid-1950s, Cheifet said, but the popularity and potential of this technology had only become clear in the past decade. The original 24-inch disk platters had now shrunk to just 5.25 inches, while the accompanying bit-density had increased 3,900 times, from a few thousand to nearly 8 million bits of data per square inch of disk. Cheifet said the improvements that led to these advances had now given way to a new approach promising yet another dramatic increase in density. Thinner film heads and tinier components could read bits recorded much closer together on narrower tracks. Another promising development was "perpendicular recording," which arranged tracks on a magnetic disk vertically rather than horizontally. Cheifet said this small change alone could double or triple a disk's storage capacity.
+
+### 5.25-Inch Floppy Disk Pioneer Sees No Threat to Continued 5.25-Inch Floppy Disk Dominance
+
+Alan Shugart, the founder and CEO of [Seagate Technology](https://www.seagate.com/), joined Cheifet and Kildall in the studio. Seagate was the leading manufacturer of 5.25-inch "mini-floppy" disk drives. Kildall noted he got his first drive from Seagate for free some years earlier. Shugart quipped they didn't give anything away anymore. Kildall then lobbed a softball question, asking Shugart if he believed the floppy disk drive was instrumental in setting off the microcomputer revolution. Shugart said there was no doubt in his mind that was the case. The original 8-inch floppy drives had proven the technology could work, while the 5.25-inch mini-floppy drive expanded the market and provided for the "big explosion" in personal computers.
+
+Kildall noted that Seagate was now producing "Winchester" drives, i.e., hard disk drives. How would that affect personal computers? Shugart replied that the hard drive was complementary to the floppy disk drive and helped to expand the capacity of a small desktop PC to handle jobs that required a lot of storage. After all, you didn't see any smaller computers with hard drives that did not also include at least one floppy drive. Kildall pointed out the floppy drive provided a means of transferring data from one computer to another. Shugart added that multiple drives also provided backup.
+
+Kildall said that one criticism of using hard disks with small computers was the concern about breaking the mechanical parts when moving the drives around. Was Shugart concerned about the reliability of hard disk drives? Shugart agreed the hard drives were more susceptible to damage from shock or vibration versus a floppy drive. The hard drive's magnetic heads had to stay in contract with the media at all times, unlike a floppy drive where you could remove the diskettes to protect them from damage. So in that sense, the Winchester drives were more delicate. Kildall asked if this problem would be addressed in the future. Shugart said newer versions of the drivers would be more shock resistant.
+
+Kildall then showed an example of a 5.25-inch floppy drive. He noted it still had a lot of mechanical components inside, making it akin to the ["Model T"](https://en.wikipedia.org/wiki/Ford_Model_T) of computing. Then Kildall produced an example of non-mechanical storage technology, Intel's bubble memory module, which could hold 1 MB on a single chip. (The thumbnail image for this post is of Kildally showing off this module.) Kildall said some people--presumably including himself--believed that some form of semiconductor-based storage like bubble memory would eventually replace the floppy disk drive. Did Shugart agree? He emphatically did not. Shugart noted the floppy disk drive had a theoretically unlimited storage capacity, because the user could keep removing the disk and putting in a new one. Bubble memory could not offer this. And on a cost-per-bit basis, Shugart believed you would never be able to beat magnetic disk storage with a semiconductor device.
+
+Cheifet then pointed to the fact many personal computers now came with a 3.5-inch (or "micro-floppy") floppy disk drive. Could Shugart see this smaller size replacing the traditional 5.25-inch disks? Again, Shugart said no. While he conceded there was a market for the smaller size--and, he noted, there were actually a number of competing micro-floppy standards ranging between 3 and 3.75 inches--none would ever replace the 5.25-inch mini-floppy. The main reason, he said, was that most of the world's software was written on 5.25-inch disks and you would never "in your wildest imagination" transcribe all of that software onto smaller disks. He said it just would not be done.
+
+Kildall then produced yet another example (see image below) of a possible competitor to the floppy disk, the video disc. Specifically, Kildall displayed a [Capacitance Electronic Disc](https://en.wikipedia.org/wiki/Capacitance_Electronic_Disc) (CED), which was a non-optical video disc format produced by RCA. Kildall said one CED could hold about 1 GB of data, enough space to contain the entire *Encyclopedia Britannica*. Did Shugart see any potential for *this* type of format in PC storage? Not surprisingly, Shugart said no, except for possibly as archival storage. He said the main problem with video disc technology was that there was a substantial error rate. With an audio or visual recording--which is what CED's were used for--that wasn't a big deal since a human could not perceive minor imperfections. But this was not good enough for business computing, which required a much more reliable storage medium like floppy disks.
+
+![RCA Capacitance Electronic Disc](/img/cc-ced.png)
+
+Cheifet followed up, asking about the possibility of using optical laser-based--discs for storage. Would that be more reliable? Shugart reiterated his view that such discs would not be useful for anything beyond archival storage. And as far as optical storage that had the capability of updating in the same manner as magnetic storage--Shugart said that was still in the "laboratory curiousity stage."
+
+Cheifet switched subjects, asking about the perpendicular recording technology he mentioned in the B-roll. Shugart briefly explained how the idea worked. Basically, when you stored data on the surface of a disk, you "flipped" little magnets that were lying on their sides. And the drive then later detected whether or not the magnets were flipped. There were only so many magnets you could get on the surface--i.e., the recording density. But if you could somehow get those magnets standing "on end," like a cord of woord, then you could get more magnets onto each surface. Shugart said this type of vertical or perpendicular recording was definitely in the cards as a future technology.
+
+Finally, Cheifet asked about double-sided or "double density" 5.25-inch floppy disks. He noted there was some controversy as to whether double-sided disks were as reliable as traditional, single-sided disks. Shugart said there was no "fundamental reason" that double-sided disks should not be as reliable. Perhaps some floppy disk vendors had "stretched the technology" further then they should, and that had unfairly given double-sided disks a bad name.
+
+### Memorex Exec Touts "Thin" Technology
+
+For the final segment, Frank Sordello of Memorex joined Cheifet, Kildall, and Shugart to talk about his company's newest hard disk drive, the Memorex 3680. Sordello did not bring the actual drive--which came in a large cabinet, as was the style at the time. Instead, he showed one of the nine 14-inch disk platters that came with the drive. Sordello said that when all nine platters were assembled, the drive could hold up to 1.2 GB of data. He also showed some of Memorex's smaller 8-inch and 5.25-inch hard drive platters.
+
+Sordello explained a key feature of the 3860, its thin-head film technology. Traditionally, Sordello said, hard drive platters used heads that were like a "bent nail" wrapped in wires. In order to lay down 150,000 bits-per-inch of data along the circumference of a hard drive platter, you needed a very small nail. Over the past eight years, those heads were made using a mechanical grinding process. But thanks to advances made in the semiconductor industry, such as [lithographic printing](https://www.smoliva.blog/post/computer-chronicles-revisited-011-am2901c-am29116/), it was now possible to design and mass produce thin-film heads that were millionths of an inch in dimension. 
+
+On the Memorex 3680, for example, Sordello said there were four thin-film heads on each end of a spindle arm, two to service one side of a platter. These heads made it possible ot record 12.5 million bits of data for every square inch of disk surface.
+
+Gary Kildall asked if there were any mechanical limitations to this technology. Or would you just keep seeing greater and greater recording densities? Sordello said Memorex's own internal plan had projected the limitations. He noted there were three key measurements to consider: (1) the number of tracks per inch along the radius of the disc platter; (2) the number of bits-per-inch along the circumference; and (3) the product of multiplying the first two numbers. Memorex's current media had 800 tracks per inch and 15,000 bits-per-inch, for a total of 12.5 million bits per square inch. Through the use of additional thin-film heads and thin-film media that Memorex planned to debut shortly, Sordello said he expected that areal density would increase by a factor of 16 to 200 million bits per square inch.
+
+Cheifet asked about cost factors involved in producing thin-head technology. Sordello said the recording head consisted of two parts: the larger air-bearing slider and the smaller magnetic transducer (i.e., the "bent nail"). Compared to the older technologies, the cost of the slider was about the same with the thin heads. But the transducer will eventually have a lower cost. Five or six years from now, Sordello said the total product cost would be about 3 to 5 percent less than it was now. At the same time, the thin-head technology performed much better than the older heads.
+
+Cheifet asked if Memorex's thin-film technology only applied to Winchester hard drives or could it also be used in floppy disk drives? Sordello said the technology applied to all forms of magnetic recording. He noted there was currently still some problems regarding wear on the "relatively soft" thin-film materials. But once this problem was resolved, thin-film could be used in floppy disk and even tape drives.
+
+Cheifet then asked Alan Shugart if he saw this technology as a factor in what Seagate was doing. Shugart said not at the present time, because the recording densities required of his products did not justify it. But at some point in the future, he expected that thin-film heads would be used in smaller, more cost-sensitive disk drive products.
+
+Cheifet ended the program by displaying yet another new storage technology, the Drexon LaserCard (see image below) from Drexler Technlogy. This was a small laser-optical storage device that could hold 2 MB of data. Cheifet asked Sordello if he believed that this type of optical storage was the eventual replacement for magnetic storage. Sordello said that once there was real-time, erasable optical media, he believed there would be an "exponential decay" in magnetic recording. Sordello noted that optical recording offered the promise of 2 billion bits per square inch, and that the first non-erasable optical device in development now were in the range of 250 million to 500 million bits per square inch.
+
+![Drexon LaserCard](/img/cc-drexon.png)
+
+## Alan F. Shugart (1930 - 2006)
+
+While he may have come across in this episode as an obstinate fool unable to see past his company's own successful 5.25-inch floppy drives, Alan Shugart really was one of the true pioneers of the field. As his [obituary in the *New York Times*](https://www.nytimes.com/2006/12/15/obituaries/15shugart.html) detailed, Shugart's career began at IBM in the early 1950s, where he started out repairing punch card machines. In 1955, Shugart was part of the IBM team that developed the first magnetic disk drive, the [RAMAC](https://www.ibm.com/ibm/history/ibm100/us/en/icons/ramac/). Eventually, Shugart rose to become IBM's director of engineering and managed the development of a 50 MB disk system that later formed the basis of Sabre, the first online reservation system for airlines. 
+
+Shugart and several IBM engineers left the company in 1969 to join, coincidentally enough, Memorex. Three years later, Shugart formed his own company, Shugart Associates, which produced one of the earliest 8-inch floppy disk drives. After Shugart was forced out of the company in 1974, the *Times* said he took a five-year break from the industry before re-emerging to form Seagate in 1979. That same year, Seagate produced the first 5.25-inch floppy drive, as well as a 5 MB hard drive that cost $1,500. 
+
+Around the time of his *Chronicles* appearance, Shugart was replaced as president of Seagate by the company's chief operating officer. Shugart returned to power in 1991 and served again as CEO until his retirement in 1998. 
+
+### Frank J. Soredello (1937 - 1999)
+
+There's less public information regarding Frank Sordello, who passed away in 1999. According to a [*Washington Post* obituary](https://www.washingtonpost.com/archive/local/1999/06/19/deaths-elsewhere/e99105db-2562-4ad3-a785-e832d37a16a6/), Sordello spent his career as an engineer. He held 44 patents--38 of which he had obtained before his *Chronicles* appearance--and like Alan Shugart, he started his career at IBM. He left Big Blue to co-found his own disk drive manufacturer, Information Storage Systems, before joining Memorex in the late 1970s as a vice president.
+
+### The Not-So-Infinite Timescale
+
+As I discussed in my introduction, this episode really touched on the problem of trying to project when one technology will be replaced by another. Alan Shugart took a comically militant approach to defending his company's existing products, shooting down every suggestion that anything might replace it. But I do think this was a case of the infinite timescale problem, as Frank Sordello's more nuanced answers to the same questions indicated. 
+
+Keep in mind, Apple shipped the original Macintosh in January 1984 with a 3.5-inch micro-floppy drive. That got the ball rolling. While 5.25-inch mini-floppy disks did not disappear right away, within roughly five years the 3.5-inch disks had become dominant. And of course, by the early 1990s, many personal computer systems were equipped with optical storage in the form of CD-ROM (and later DVD-ROM) drives. Alan Shugart may not have been able to predict this timetable sitting from his perch atop Seagate in late 1983, but on the proverbial "infinite timescale," the 5.25-inch floppy disk drive had already peaked and was on track to be replaced by newer technology at some point.
+
+## Notes from the Random Access File
+
++ This episode is available on the [Internet Archive](https://archive.org/details/StorageD1984) and has a broadcast date of May 14, 1984, although my guess the actual recording data was sometime in late 1983.
++ The term "Winchester" refers to the [IBM 3340](https://www.ibm.com/ibm/history/exhibits/storage/storage_3340.html) hard disk drive, which was released in 1973. According to an account published by the [Computer History Museum](https://www.computerhistory.org/storageengine/winchester-pioneers-key-hdd-technology/), IBM project manager Kenneth Haughton reportedly joked the new drive--which had a 30 MB capacity--was like a [.30-30 Winchester rifle](https://en.wikipedia.org/wiki/.30-30_Winchester) cartridge. Winchester then became a generic term for describing early hard disk drives.
++ The Memorex 3680 was a behemoth. According to Memorex's [product specifications](https://archive.computerhistory.org/resources/access/text/2017/01/102770299-05-01-acc.pdf), the assembled drive was nearly 3-feet tall and weighed 625 pounds. As noted by Frank Sordello, the 3680 had a storage capacity of 1.25 GB. 
++ I could not find the original retail price of the Memorex 3680, but according to the April 22, 1985 issue of [*ComputerWorld*](https://www.ibm.com/ibm/history/exhibits/storage/storage_3340.html), Memorex sold a "double-deck configuration" of the drive--with a whopping 10 GB of storage--for $310,310.00. 
++ The "bubble memory" displayed by Gary Kildall could be thought of as a forerunner of the modern solid-state drive. According to an [article by John C. Dvorak](http://www.dvorak.org/blog/whatever-happened-to-bubble-memory/), Bell Labs invented bubble memory in the 1970s. It recorded data on "bubble-like magnetic regions on the surface of a chip." But the fabrication process "never proved to be smooth or cheap enough to compete with other technologies," although it was used by the military for many years.
++ Similarly, the RCA Capacitance Electronic Disc (CED) was a complete market bust. To reiterate, the CED was not an optical-style disk like a CD or DVD. It was more like a vinyl record, where a mechanical stylus had to read the data off of the disc. The YouTube channel [Techmoan](https://www.youtube.com/watch?v=0LrPe0rwXOU) published a video in 2016 if you're interested in learning more about the CED.
++ The Drexon LaserCard shown by Stewart Cheifet at the end of the episode was a laser-recordable optical memory card introduced in 1981. It was designed to work with a special read/write appratus developed by SRI International for the Apple II, according to inventor [Jerome Drexler](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0329/1/Laser-Card-For-Compact-Optical-Data-Storage-Systems/10.1117/12.933376.short?SSO=1). The technology is actually still in use, primarily for government identification cards. 
