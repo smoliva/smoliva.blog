@@ -8,7 +8,7 @@ categories:
 tags:
   - "Stewart Cheifet"
   - "Herbert Lechner"
-  - "Patrick Supes"
+  - "Patrick Suppes"
   - "Nancy Palmer"
   - "Glenn Kleiman"
   - "Sean Tibor"
@@ -43,7 +43,7 @@ The primary use of computer instruction was for rote learning and practice drill
 
 ## A 1.5-inch Rolls Royce That Only Costs $2.50!
 
-For the first guest segment, Cheifet and Lechner welcomed Professor [Patrick Supes](https://en.wikipedia.org/wiki/Patrick_Suppes) of Stanford University and Nancy Palmer, the computer education coordinator for the Palo Alto School District. Lechner repeated his earlier observation that the application of computers in education was not moving along as rapidly as everyone had hoped. How did his guests feel about that assertion? Supes said that for most of the past 20 years that he'd been involved with computers and education, he agreed that was true. But in the last 3 or 4 years, he said the pace had really changed. There was now a lot of hardware and an increasing amount of software in the schools. 
+For the first guest segment, Cheifet and Lechner welcomed Professor [Patrick Suppes](https://en.wikipedia.org/wiki/Patrick_Suppes) of Stanford University and Nancy Palmer, the computer education coordinator for the Palo Alto School District. Lechner repeated his earlier observation that the application of computers in education was not moving along as rapidly as everyone had hoped. How did his guests feel about that assertion? Suppes said that for most of the past 20 years that he'd been involved with computers and education, he agreed that was true. But in the last 3 or 4 years, he said the pace had really changed. There was now a lot of hardware and an increasing amount of software in the schools. 
 
 Palmer concurred, at least with respect to her school district. She said there was now a lot more interest from the teachers, and they were starting to use computers within their classroom in a lot of different ways. Students were using word processing and some other types of programs like data management, making the computer more of a tool. Of course, students were also learning programming languages like BASIC, Logo, and Pascal. But there was now a wider application of computers. Suppes emphasized that we had only really begun to integrate computers into education.
 
