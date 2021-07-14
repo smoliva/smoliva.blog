@@ -16,6 +16,7 @@ theme = "mainroad"
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
+  toc = true # Enable table of contents for each post
   post_meta = ["date", "categories"] # Order of post meta information
   copyright = "S.M. Oliva, LLC"
 
@@ -41,6 +42,10 @@ theme = "mainroad"
   email = "smo@smoliva.com"
   github = "smoliva"
   twitter = "ChronRevisited"
+
+[[Params.widgets.social.custom]]
+  title = "Support Me on Ko-fi"
+  url = "https://ko-fi.com/smoliva"
 
 [[Params.widgets.social.custom]]
   title = "Mastodon"
@@ -85,6 +90,10 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "How Appealing"
   url = "https://howappealing.abovethelaw.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Irrational Notes"
+  url = "https://www.irrationalnotes.com/"
 
 [[Params.widgets.blogroll.custom]]
   title = "Liss is More"
