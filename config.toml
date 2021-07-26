@@ -68,6 +68,10 @@ theme = "mainroad"
   url = "https://popey.com/blog/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "Anais Urlichs"
+  url = "https://anaisurl.com/"
+
+[[Params.widgets.blogroll.custom]]
   title = "By Ken Levine"
   url = "http://kenlevine.blogspot.com/"
 
