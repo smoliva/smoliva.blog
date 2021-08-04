@@ -40,7 +40,7 @@ Paul O'Grady, a co-founder of [Micro Focus](https://microfocus.com)--the sponsor
 
 O'Grady then demonstrated Personal COBOL on an IBM Personal Computer. He described this version of COBOL as a combination of an editor, forms generator, and syntax checker. Specifically, he showed how you could generate a data-entry form in roughly five minutes.
 
-![Micro Focus - Personal COBOL](/img/cc-personal-cobol.png)
+![Personal COBOL Demonstration Screen.](/img/cc-personal-cobol.png)
 
 Kildall noted that in traditional COBOL programming, you would work out all of the details that would produce this screen. But in this case, O'Grady made the screen manually by moving a cursor around, effectively the inverse of traditional COBOL. O'Grady said that was correct. With Personal COBOL, the user created the form and the software generated the COBOL code automatically.
 
@@ -66,7 +66,7 @@ With that, Kildall got DR Logo running. He noted it was an interpreted language 
 
 Kildall also demonstrated an application written in DR Logo, a simple blackjack game designed by a 13-year-old friend of his son. Kildall said the game was written in about 3 or 4 days and showed how you could build a program without a great deal of effort that was still interactive and graphical in nature. Eisenberg added that one of the nice things about languages like Logo was that the user could define their own words, which made the final program read closer to English.
 
-![DR Logo - Blackjack](/img/cc-blackjack.png)
+![The start of a blackjack game running in Digital Research LOGO. The player has a King of Diamonds and a Jack of Hearts. The dealer shows a 10 of Spades.](/img/cc-blackjack.png)
 
 Cheifet noted that most new computer users were exposed to BASIC as their first language. How was Logo better than BASIC? Kildall explained that BASIC was essentially derived from Fortran, the first high-level programming language, and that meant BASIC also inherited a lot of Fortran's problems. It required a step-by-step breakdown of a problem into simple steps. That was not always the best approach for building a program. Logo, in contrast, came out of work done at MIT where the developers thought about the "problem of problem solving itself" and created a language that would suit that purpose. 
 

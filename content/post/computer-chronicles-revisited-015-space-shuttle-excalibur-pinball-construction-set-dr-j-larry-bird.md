@@ -68,7 +68,7 @@ Kildall said this was basically an educational game. Stevens described it as "vi
 
 Cheifet then shifted back to Crawford and asked about his own game, [*Excalibur*](https://www.mobygames.com/game/atari-8-bit/excalibur), which was available on Atari's 8-bit computer line. Crawford said the game was about "leadership." His motivation was the 19th century Prussian general [Carl von Clausewitz's famous axiom](https://www.clausewitz.com/readings/OnWar1873/BK1ch01.html), "war is a mere continuation of policy by other means." Crawford said he was tired of wargames that glorified war. He wanted to how that war was sometimes unavoidable but must never be entered into cavalierly. So he wanted *Excalibur* to teach concepts of leadership.
 
-![Chris Crawford - Excalibur](/img/cc-excalibur.png)
+![The opening screen of Chris Crawford's "Excalibur" for the Atari 8-bit computer line. The left side shows the womenu options "Gift," "Honour," "Banish," and "Select"; the center is a line with a crown on the bottom representing the plater; the right has a number of icons representing non-player characters moving near a roundtable.](/img/cc-excalibur.png)
 
 In the game, the player assumed the role of [King Arthur](https://en.wikipedia.org/wiki/King_Arthur), who must unify Britain. Crawford noted that unification was different than conquest--the player had to convince people of their authority. That involved more than brute force. Cheifet clarified *Excalibur* was designed for the [Atari 800](https://oldcomputers.net/atari800.html). Crawford said yes, his game required 48 kilobytes of memory and a disk drive. The game actually required swapping multiple disks, as the total game included 66 kilobytes of object code written in assembly language.
 
@@ -86,7 +86,7 @@ Cheifet asked Hawkins what he looked for in a successful game from the business 
 
 Budge then demonstrated PCS on an Apple II. The gameplay was based on using a joystick to move various pinball machine parts around to create a pinball machine. Budge joked that young children jut wanted to "grab a bunch of bumpers" and put them on the table, which serious pinball aficionados would scoff at. 
 
-![Bill Budge - Pinball Construction Set](/img/cc-pinball.png)
+![A sample pinball table and construction tools provided with Bill Budge's Pinball Construction Set for MS-DOS computers.](/img/cc-pinball.png)
 
 Cheifet asked Budge about his next project or goal. Budge replied he wanted to extend the "construction set" idea further. The challenge would be designing the box of parts. With pinball that was relatively simple, as a pinball machine had a small box of parts. You didn't need to think about more abstract concepts. But with a more general construction set, it was not even clear what the parts should be. Budge said it was almost like inventing a new language.
 
@@ -96,7 +96,7 @@ Kildall noted that computer games had already advanced from "relatively unsophis
 
 Hawkins then demonstrated the final program for the episode, [*One-on-One*](https://www.mobygames.com/game/one-on-one), a basketball game featuring the likenesses--well, I use that term loosely--of NBA players Larry Bird and Julius "Dr. J" Erving. Bird and Erving actively participated in the design process, according to Hawkins. Hawkins said there were photo sessions with both men to help "capture them in action." EA designers talked to both players about "their moves," and used combined that with their statistics--notably, their shooting percentages from different parts of the court--to create the player models for the game.
 
-![Electronic Arts - One-on-One Basketball](/img/cc-one.png)
+![An in-game screenshot from Electronic Arts' One-on-One Basketball, featuring Larry Bird dribbling a ball past Julius "Dr. J" Erving.](/img/cc-one.png)
 
 Cheifet asked Hawkins about the "next generation" of computer games. Hawkins said at a simple level, the goal was to extend the realism and graphics seen in EA's current products. He also pointed to "more creative possibilities for the player," by extending concepts like PCS. In fact, EA had already launched [*Music Construction Set*](https://www.smoliva.blog/post/computer-chronicles-revisited-003-music-construction-set-alpha-syntauri/), which used a lot of Budge's ideas from PCS. The greatest challenge moving forward was looking for original ideas that "broke the mold."
 
@@ -115,7 +115,7 @@ Stewart Cheifet presented this episode's "Random Access" segment, which is dated
 + Computer magazines continued to boom, with Cheifet noting there were more than 300 now on the market. The fastest growing publications were *Compute!*, *Personal Computing*, *Popular Computing* (the sponsor of "Random Access"), and *InfoWorld*.
 + Finally, Cheifet joked the last place you'd want to see a robot was a bar. But this past week in San Francisco, the [world's first robot bartender](https://www.upi.com/Archives/1984/03/14/Will-they-build-in-a-sympathetic-ear/5732448088400/?spt=su) made its debut. The robot could talk, take orders, and mix 200 different drinks. Unfortunately, when a waitress asked for a Bloody Mary and a beer, the robot knocked a glass onto the floor and started pouring beer all over the counter. The robot's designer acknowledged there were still some bugs to work out.
 
-![Random Access - Robot Bartender](/img/cc-robot.png)
+![Stewart Cheifet presenting "Random  Access" with an insert image of a large blue robot with a human-like face.](/img/cc-robot.png)
 
 ### Paul Schindler on Communications Software
 

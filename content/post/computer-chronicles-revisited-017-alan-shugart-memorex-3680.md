@@ -50,7 +50,7 @@ Cheifet then pointed to the fact many personal computers now came with a 3.5-inc
 
 Kildall then produced yet another example (see image below) of a possible competitor to the floppy disk, the video disc. Specifically, Kildall displayed a [Capacitance Electronic Disc](https://en.wikipedia.org/wiki/Capacitance_Electronic_Disc) (CED), which was a non-optical video disc format produced by RCA. Kildall said one CED could hold about 1 GB of data, enough space to contain the entire *Encyclopedia Britannica*. Did Shugart see any potential for *this* type of format in PC storage? Not surprisingly, Shugart said no, except for possibly as archival storage. He said the main problem with video disc technology was that there was a substantial error rate. With an audio or visual recording--which is what CED's were used for--that wasn't a big deal since a human could not perceive minor imperfections. But this was not good enough for business computing, which required a much more reliable storage medium like floppy disks.
 
-![RCA Capacitance Electronic Disc](/img/cc-ced.png)
+![Stewart Cheifet with Gary Kildall; Kildall is holding an RCA Capacitance Electronic Disc.](/img/cc-ced.png)
 
 Cheifet followed up, asking about the possibility of using optical laser-based--discs for storage. Would that be more reliable? Shugart reiterated his view that such discs would not be useful for anything beyond archival storage. And as far as optical storage that had the capability of updating in the same manner as magnetic storage--Shugart said that was still in the "laboratory curiousity stage."
 
@@ -76,7 +76,7 @@ Cheifet then asked Alan Shugart if he saw this technology as a factor in what Se
 
 Cheifet ended the program by displaying yet another new storage technology, the Drexon LaserCard (see image below) from Drexler Technlogy. This was a small laser-optical storage device that could hold 2 MB of data. Cheifet asked Sordello if he believed that this type of optical storage was the eventual replacement for magnetic storage. Sordello said that once there was real-time, erasable optical media, he believed there would be an "exponential decay" in magnetic recording. Sordello noted that optical recording offered the promise of 2 billion bits per square inch, and that the first non-erasable optical device in development now were in the range of 250 million to 500 million bits per square inch.
 
-![Drexon LaserCard](/img/cc-drexon.png)
+![Stewart Cheifet showing a Drexon LaserCard.](/img/cc-drexon.png)
 
 ## Alan F. Shugart (1930 - 2006)
 

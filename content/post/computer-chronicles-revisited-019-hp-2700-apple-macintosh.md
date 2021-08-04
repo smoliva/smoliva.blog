@@ -45,7 +45,7 @@ Williams also pointed out that many "traditional computer users" were resistant 
 
 Despite these criticisms, when the Macintosh made its in-studio debut on *The Computer Chronicles* in March 1984, there was still great excitement over Apple's new machine and its GUI. Herbert Lechner of SRI International joined Stewart Cheifet for this episode, where the formal subject was computer ergonomics or "human factors engineering." The episode began with Cheifet showing off Apple's first machine--the Apple I from 1976--and noted "you had to supply your own lumber" to build the machine's case and it was not very user-friendly. 
 
-![Apple I with lumber](/img/cc-apple-i.png)
+![Apple I computer inside a wooden case with attached keyboard.](/img/cc-apple-i.png)
 
 Cheifet then asked Lechner about a recent study from SRI about ergonomics. Lechner said that study identified a number of areas for improving the man-to-machine interface. This ranged from hardware-specific items like the design of the keyboard and the height of chairs to issues affecting the general workspace, such as heat, noise, and lighting. Ergonomics was also a personnel issue, Lechner said, in that it was important for businesses to ensure that the people who were using computers and related equipment were part of the selection and decision-making process.
 
@@ -67,7 +67,7 @@ Cheifet followed up by asking about the software side of ergonomics, which he sa
 
 Smith then demonstrated one of her company's products, the [HP 2700 terminal](http://www.hpmuseum.net/display_item.php?hw=244). (Cheifet referred to this machine as the "HP Orion.") The demo contained a [PERT Chart](https://www.productplan.com/glossary/pert-chart/), a common tool used in project management. Using the HP 2700's graphical capabilities--the terminal could display 4,029 different colors--the information in the chart could be modified to add accent colors to highlight certain information on an otherwise black-and-white chart.
 
-![HP 2700 terminal - PERT chart](/img/cc-hp-2700.png)
+![Demonstration of a PERT chart created with the Hewlett-Packard 2700 video display terminal.](/img/cc-hp-2700.png)
 
 Smith also demonstrated the use of multi-color design in a word processing application. She pointed out the user could design something like a form letter with different colored sections to hughlight fixed areas versus those items that needed to be changed on a daily basis. Smith said H-P was starting to use multi-color design to study the visual and cognitive responses of users, which as Kessel noted was a more difficult problem than hardware design. 
 
@@ -89,7 +89,7 @@ Cheifet asked for a demonstration of the Macintosh Control Panel. (You'll see th
 
 Kare also demonstrated a few of the Macintosh's built-in applications, including Notepad and Scrapbook. Notepad allowed the user to write quick notes and "flip" between up to 8 separate pages. Scrapbook--see the image below--could store up to 256 pictures or messages in memory, which could then be pasted into other documents. Kare also briefly demonstrated [MacWrite 1.0](https://winworldpc.com/product/macwrite/10), a WYSYWIG word processor, that included features like a ruler to set margins and buttons to make formatting changes. Cheifet noted the user could also pull pictures from Scrapbook and paste them into a MacWrite document.
 
-![Macintosh System 1.0 - Scrapbook](/img/cc-mac1-scrapbook.png)
+![Monochrome image of a fish included with the Scrapbook application on Macintosh System 1.0.](/img/cc-mac1-scrapbook.png)
 
 ## The First "Electronic University" Announces Plans to Offer Degrees
 
@@ -123,7 +123,7 @@ Kare got the job and proceeded to design a number of original typefaces for the 
 
 Hackett also pointed to Kare's work on the [Cairo font](https://www.moma.org/collection/works/188398), which he described as "the original dingbat font," i.e., a typeface composed of graphical symbols that were not traditional letters or punctuation characters. Of particular note, Cairo's replacement for the traditional "Z" character was a "small creature named 'Clarus'," which another Apple employee later dubbed "The Dogcow." 
 
-![Clarus the Dogcow](/img/cc-clarus.png)
+![Image of Clarus the Dogcow from the original Macintosh Cairo font.](/img/cc-clarus.png)
 
 But as we learned in the *Chronicles* episode, Kare's contributions went well beyond fonts into the actual system icons. Kare later recounted the process to *Smithsonian*:
 

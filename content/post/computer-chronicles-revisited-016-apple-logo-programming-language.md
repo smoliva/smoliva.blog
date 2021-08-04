@@ -29,7 +29,7 @@ However, BASIC was not the only educational programming language of the 1980s. T
 
 Stewart Cheifet and our old friend Herb Lechner opened this episode by demonstrating an educational game, [*Algebra Arcade*](https://www.mobygames.com/game/algebra-arcade) by Wadsowrth Electronic Publishing Company, on an IBM Personal Computer. Cheifet explained the game was designed to teach students algebraic expressions and their graphical representations. The game presented the player with a pair of axes and a number of "algebroids" positioned throughout the graph. The test for the player was to write an equation using algebraic functions to try and plot a graph that would intersect as many of these algebroids as possible. There was also a "graph gobbler" the player needed to avoid. If the final equation hit the gobbler, the player received a penalty.
 
-![Algebra Arcade](/img/cc-algebra.png)
+![A screenshot from the Apple II game "Algebra Arcade," showing two axes with 11 "algebroids" and 1 "graph gobbler," as well as a green line representing the expression Y=-1.](/img/cc-algebra.png)
 
 With respect to the broader subject of computers in education, Cheifet pointed out that some people were afraid of technology and feared that computers would replace teachers and dehumanize education. Did Lechner see that in the future? Lechner noted that the expectations for the use of computers in schools was very high. But in practice, it had not been nearly as extensive as expected, and he did not think the positive or negative impacts so far had been terribly significant. 
 
@@ -55,7 +55,7 @@ Cheifet asked about the instructor's standpoint. Was this actually providing a b
 
 Suppes also emphasized his approach afforded students excellent opportunities to practice--and be corrected--in performing logic exercises and giving proofs and counter-examples. Suppes then provided a demonstration of his actual course using a terminal tied into the Stanford mainframe. Suppes noted it took a student about 75 hours to complete the entire course. (The image below is from a [1980 article](https://suppes-corpus.stanford.edu/sites/g/files/sbiybj7316/f/computer-assisted_instruction_in_logic_at_stanford_211-1.pdf) that Suppes published on his course, and the mean time it took students to complete his course and each individual lesson.)
 
-![Prof. Suppes - Logic Course](/img/cc-coursework.png)
+![A table showing the Mean Time and Cumulative Mean Time for a Representative Quarter of Professor Patric Suppes' Stanford logic courses.](/img/cc-coursework.png)
 
 After the demonstration, Cheifet turned to Palmer and asked her if high schools were using computers to teach actual classes like this, or if they were just used to teach programming. Palmer said they were used in both ways in Palo Alto. For example, business classes used computers to teach accounting. Lechner asked if the computers made any difference. Were the achievement scores going up for the classes using computers? Palmer said that was difficult to answer in terms of real data. She felt there had been a difference with the students, but they were not at the stage where hard data has been collected.
 
@@ -69,7 +69,7 @@ Kleiman explained that with turtle graphics, you could instruct an on-screen pen
 
 Rather than just try and describe all this--or display blurry screenshots from the episode--I went ahead and installed an original version of Apple Logo on an Apple IIe emulator and recreated Kleiman's MAGIC demo. First, I typed the MAGIC procedure into the built-in Logo Editor:
 
-![Apple Logo Editor](/img/cc-logo-02.png)
+![A screenshot of the Apple LOGO Editor showing the sample code listed below.](/img/cc-logo-02.png)
 
 Here's a printout of the source code:
 
@@ -85,15 +85,15 @@ These are the examples presented by Kleiman that I recreated:
 
 	? MAGIC 20 90 10 8
 
-![Apple Logo - MAGIC Example 1](/img/cc-logo-03.png)
+![A spiral created using the Apple LOGO command "MAGIC 20 90 10 8."](/img/cc-logo-03.png)
 
 	? MAGIC 5 90 3 40
 	
-![Apple Logo - MAGIC Example 2](/img/cc-logo-04.png)
+![A spiral created using the Apple LOGO command "MAGIC 5 90 3 40."](/img/cc-logo-04.png)
 
 	? MAGIC 5 135 3 40
 
-![Apple Logo - MAGIC Example 3](/img/cc-logo-05.png)
+![A star created using the Apple LOGO command "Magic 5 135 3 40."](/img/cc-logo-05.png)
 
 Cheifet snarked that while this was kind of interesting, and it was fun to see these pictures, "it seems a bit whimsical. What's the big deal?" Kleiman conceded it was perhaps whimsical in a way. But kids enjoyed whimsy. He thought the "big deal" was that it was a very different approach that what Professor Suppes had demonstrated earlier. Suppes used computers to do things that had always been done in education--tutorials and drills. And that was certainly a valid use of the technology, Kleiman said. What Logo provided, however, was an example of introducing a tool that kids could explore, where the child had more control than the computer. This was not about problems and questions coming out of the computer--the computer was waiting for the child to act.
 

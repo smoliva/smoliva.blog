@@ -39,13 +39,13 @@ Cheifet said the "special talents" of computer graphics were also increasingly u
 
 Over some computer graphics demos produced by [Pacific Data Images](https://en.wikipedia.org/wiki/Pacific_Data_Images) (see one below), Cheifet emphasized that the systems used to produce these images were not designed to replace artists but to assist them. And with enough human talent, he said, artists could use computers to mimic reality in greater detail or expand it to the fringes of their imagination.
 
-![Pacific Data Images demo](/img/cc-pdi.png)
+![An early computer graphics demo by Pacific Data Images, showing a cup filled with crayons and a corked blue flask.](/img/cc-pdi.png)
 
 ## It Takes a Lot of Computing Power to Move a Rubik's Cube
 
 Michael Arent and Donald McKinney joined Cheifet and Lechner for the first roundtable segment. Lechner asked Arent, a digital artist and consultant with [Aaron Marcus + Associates](https://bamanda.com/about-us/), for a demonstration of the work he did using an Apple Graphics Tablet. Arent showed you could use the tablet to not only paint images, but also combine graphics, photographs, and text onto the screen. Specifically, he took a digitized photo of Cheifet, removed the background, and added a word balloon with text. 
 
-![Apple Graphics Tablet - Cheifet demo](/img/cc-apple-graphics-tablet.png)
+![Image of Stewart Cheifet with a word balloon saying "Computer Chronicles," made by Michael Arent with the Apple Graphics Tablet.](/img/cc-apple-graphics-tablet.png)
 
 Cheifet pointed out that computer graphics demanded a great deal of memory. How was that accomplished on a microcomputer like the Apple IIe? McKinney, a vice president with Silicon Graphics, Inc. (SGI), replied that it depended on the amount of color that you had available as well as the screen resolution. The higher and smoother that the image appeared, the more memory memory you required, McKinney noted that SGI's own system, which he would demonstrate in a moment, required approximately 3 million bytes of memory to store an image in real time.
 
@@ -53,25 +53,25 @@ Returning to Arent's demo, Lechner asked how it was possible to remove the backg
 
 Cheifet and McKinney then moved over to the other side of the studio to demonstrate SGI's IRIS 1400 computer graphics system. Cheifet asked how this differed from the Apple Graphics Tablet or the KoalaPad. McKinney explained that those devices worked with microcomputers. But the IRIS was a different class of machine. The main difference was that it used custom chips developed by SGI to perform 3D calculations. He then provided the first demo, which was a [Rubik's cube](https://www.rubiks.com/en-us/) moving in 3D space.
 
-![SGI IRIS 1400 - Rubik's Cube](/img/cc-sgi-iris-01.png)
+![Image of a Rubik's cube moving in 3D space, created by the Silicon Graphics IRIS 1400 system.](/img/cc-sgi-iris-01.png)
 
 Cheifet asked about the hardware used in the IRIS 1400. McKinney said the CPU was a [Motorola 68000](https://spectrum.ieee.org/chip-hall-of-fame-motorola-mc68000-microprocessor), which was also used in many high-performance microcomputers (such as the Apple Macintosh). He said the other key was the [Geometry Engine](https://www.electronicdesign.com/technologies/embedded-revolution/article/21149941/jon-peddie-research-geometry-engine-the-legendary-chip-that-launched-sgi), a proprietay SGI high-speed 3D floating-point calculation unit that could perform 6.5 million operations per second. In the near future, McKinney said SGI planned to increase that speed to 10 million floating-point operations per second.
 
 McKinney's next demo was a virtual fly-by of some 3D-rendered buildings. Cheifet asked about the practical application of this technology. McKinney said SGI had several customers in the architectural, engineering, and construction fields. Indeed, many local companies in the Silicon Valley region used the IRIS system to create piping diagrams and perform calculations for intersections in facilities like nuclear power plants. It was also possible for an architectural firm to add their own software to the IRIS system and sell it to end-user architects for use in designing exteriors and landscapes, or even interior decorating.
 
-![SGI IRIS 1400 - Architectural demo](/img/cc-sgi-iris-02.png)
+![3D rendering of buildings in a cityscape, created by the Silicon Graphics IRIS 1400 system.](/img/cc-sgi-iris-02.png)
 
 There were two additional demos, one showing a 3D robotic arm and the other a flight simulator. 
 
-![SGI IRIS 1400 - Robotic arm demo](/img/cc-sgi-iris-03.png)
+![3D rendering of a moving robotic arm, created by the Silicon Graphics IRIS 1400 system.](/img/cc-sgi-iris-03.png)
 
-![SGI IRIS 1400 - Flight simulator demo](/img/cc-sgi-iris-04.png)
+![3D rendering of a flight simulator, created by the Silicon Graphics IRIS 1400 system.](/img/cc-sgi-iris-04.png)
 
 ## The Wave of the Future for Television Graphics
 
 For the second and final roundtable, Ann Chase and Kevin Prince joined Cheifet and Lechner. Chase, a freelance digital artist, demonstrated the Quantel Paintbox. She used the Paintbox to create a digital animation of Stewart Cheifet's necktie rolling up and down during the transition to this segment.
 
-![Quantel Paintbox - Cheifet tie animation demo](/img/cc-paintbox.png)
+![Key frames for the animation of Stewart Cheifet's tie, created by digital artist Ann Chase on the Quantel Paintbox.](/img/cc-paintbox.png)
 
 Cheifet asked Prince, an engineering manager with Quantel, about the hardware and software capabilities of the Paintbox. Prince said like the SGI IRIS system, the Paintbox also used a Motorola 68000 CPU. Quantel also included a lot of dedicated hardware to provide capabilities like fast wipes, painting, changing brush sizes, and so forth. He added this system required a very large operating system that took Quantel quite a bit of time to develop.
 
@@ -81,7 +81,7 @@ Cheifet noted that the Paintbox was currently used to produce television graphic
 
 Chase then performed a final demonstration, showing how you could "cut and paste" images with the Paintbox. Taking a still image from the live video feed of the *Computer Chronicles* taping, Chase pasted a duplicate image of her own head on top of Prince's body. 
 
-![Quantel Paintbox - TWO Ann Chases?!](/img/cc-paintbox-chase.png)
+![Quantel Paintbox demo by digital artist Ann Chase, showing the artist and duplicate of her head superimposed on the body of Quantel manager Kevin Prince.](/img/cc-paintbox-chase.png)
 
 Lechner said that while it was clear this type of computer graphics technology was valuable to the television industry, what about fine art? Was "computer art" growing and catching on? Chase said definitely--computer art was the "wave of the future." Lechner jokingly asked if paintbrush manufacturers should be worried. 
 

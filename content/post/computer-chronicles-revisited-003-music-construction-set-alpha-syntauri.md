@@ -97,7 +97,7 @@ Finally, there is Stanford professor John Chowning. As mentioned above, Chowning
 + I'm reasonably certain that the pianist David Evans featured in the MIT music segment is not the guitarist from U2 better known as [the Edge](https://en.wikipedia.org/wiki/The_Edge). 
 + Another tidbit from the *MicroTimes* computer store ads that made me giggle: You could buy "FANS" for your Apple Computer for $45, thus thwarting Steve Jobs yet again in his quest for fanless machines.
 
-![Apple Fans - $45.00](/img/apple-fans.jpg)
+![Advertisement showing list of prices for Apple and IBM PC accessories, highlighting "fans" avaiilable for Apple Macintosh for $45.](/img/apple-fans.jpg)
 
 + Ellen Lapham told her [high school alumni newsletter](https://www.laurelschool.org/news-detail?pk=1020231&fromId=248505) in 2019 that she "advised" a "very young Apple Computer" back in her days as a public relations and marketing specialist.
 + More impressively, Lapham also climbed Mount Everest. Twice.
