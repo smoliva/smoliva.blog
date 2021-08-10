@@ -96,10 +96,6 @@ theme = "mainroad"
   url = "https://www.irrationalnotes.com/"
 
 [[Params.widgets.blogroll.custom]]
-  title = "Liss is More"
-  url = "https://www.caseyliss.com/"
-
-[[Params.widgets.blogroll.custom]]
   title = "OMG! Ubuntu!"
   url = "https://www.omgubuntu.co.uk/"
 

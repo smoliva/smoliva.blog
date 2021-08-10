@@ -1,0 +1,137 @@
+---
+title: Computer Chronicles Revisited, Part 22 — Dialog and The Source
+description: The Computer Chronicles discusses online databases.
+date: 2021-08-09
+thumbnail: "img/cc-source-infoworld.png"
+categories:
+  - "Computer Chronicles Revisited"
+tags:
+  - "Stewart Cheifet"
+  - "Gary Kildall"
+  - "Roger Summit"
+  - "Jay Fitzgerald"
+  - "Paul Schindler"
+  - "Jimmy Maher"
+  - "William Von Meister"
+  - "Jack Taub"
+  - "Susanne Bjørner"
+  - "Stephanie Ardito"
+  - "Isaac Asimov"
+  - "Reader's Digest Association"
+  - "CompuServe"
+  - "Source Telecomputing Corporation"
+  - "Dialog Information Systems"
+--- 
+
+The ostensible topic of this next *Computer Chronicles* episode is databases. But what we're really talking about here are early online information systems--that is, the precursor to the modern Internet. This was a time (1984) when just getting online was a chore. First, you needed a personal computer with a separate modem peripheral connected to a telephone line. Then you needed a subscription to an online service. The service itself charged you by the minute or hour for access--and that was on top of any long-distance phone charges you might incur if the service did not have a local number.
+
+## More Than an Electronic Filing Cabinet
+
+As the episode begins, Stewart Cheifet and Gary Kildall demonstrated the online shopping feature of the Source, one of the two main subjects of the show. Using an IBM Personal Computer, Cheifet navigated text-based menus to explain how someone could purchase a VCR online using the Source. He noted the online shopping database displayed the machines available in the store's inventory and could provide a description of any of the models. If Cheifet decided to buy a VCR, the service would automatically charge his credit card.
+
+Cheifet explained that it was hard to define the subject of online databases, which were also referred to as "telecomputing" or "information utilities." Cheifet said another phrase commonly used to describe these services was "timesharing." Kildall pointed out that was actually an older term that referred to many people sharing the use of a larger computer system. He said that personal computers had stolen away a lot of customers from timesharing as the newer microcomputers were less costly and more convenient. But he added that personal computers did not compete well with larger systems when it came to accessing large information databases. In that sense, timesharing could make a comeback in the form of information services, which allowed personal computer or terminal users to access a larger database, provided it was cheap enough to use.
+
+Cheifet transitioned into the B-roll, noting there were about 2,000 online databases in active use, most of which served specialized interests. He said the key to a useful and usable system was information selection--i.e., the ability to search through massive amounts of data, locate multiple sources and references, and relate them in a number of different ways. An effective database search could squeeze an hour (or even a month) of research into just a few minutes.
+
+The B-roll itself focused on the use of a specialized database for crop genetics. Cheifet explained that in biotechnology, plant genes were manipulated to produce new varieties in which desirable traits from several plants were combined. Because of the extreme complexity--and often experimental nature--of this research, Cheifet said researchers relied upon a worldwide bank of information. Specifically, a chemical database enabled researchers to look for any documents referring to a particular chemical as it affected the reproductive abilities of wheat. The chemical's reference number was listed in a separate database that included records for 5 million chemicals. When cross-referenced with the document database, the researcher could find studies dating back in 5-year increments and displayed a summary of each study.
+
+But Cheifet added that to characterize a database as merely an "electronic filing cabinet" was to underestimate its power. Indexing and cross-referencing the ideas of a thousand different minds meant a database could offer its users an organized way to connect and relate ideas. Used to its full potential, Cheifet concluded, the database could help a researcher find solid support for a vague theory and bring even distantly related ideas together.
+
+## Electronic Mail: The Important Adjunct to Online Databases
+
+Back in the studio, Jay Fitzgerald and Paul Schindler joined Cheifet and Kildall. Fitzgerald was the west coast regional manager for the Source. Kildall asked what a user could access with this service. Fitzgerald quipped it would give you access to the Source Telecomputing Corportation's computers. He elaborated that the Source was a general, broad-based information retrieval service that mostly focused on current events. 
+
+Fitzgerald demonstrated the Source's menu-based system. He showed off the service's electronic mail capabilities. He added the service also provided a bulletin-board system, conferencing capabilities, and even the ability to send messages to non-users through either Western Union's [Mailgram](http://www.mailgram.us/Store/index.php?route=product/category&path=20_27) or the U.S. Postal Service's [E-COM](https://about.usps.com/who-we-are/postal-history/ecom.pdf) systems.
+
+The actual demonstration of electronic mail proved rather slow, as it required connecting remotely to the Source. Kildall joked this was reminiscent of the old timesharing days. In the middle of the demo, Fitzgerald kept getting pinged by another user who wanted to initiate a live chat. Kildall also pointed out that electronic mail was not really a "database" service. Did the Source actually provide database access? Fitzgerald conceded that the Source did not run its own databases. Rather, it offered users access to the United Press International newswire content service, abstracts of business journals, and Media General's database of historical corporate stock data. 
+
+Paul Schindler chimed in at this point, noting that electronic mail was in fact an important adjunct to online databases, because useful information wasn't limited to data generated by someone you didn't know. Citing his own journalism work, Schindler noted his publication, *Information Systems News*, had a Tokyo-based correspondent. And sometimes her information was more useful to Schindler than what he could get from the UPI newswire via the Source. So in that sense, electronic mail was just as essential for him accessing information, in this case from the correspondent. Kildall added that electronic mail was also one thing that could not be done with an isolated personal computer; it required an online service.
+
+Cheifet asked Fitzgerald about the most popular services on the Source. Fitzgerald replied the heaviest use was for communications services, such as electronic mail and the post (bulletin board) system. After that, the next-heaviest usage was for the UPI newswire, and travel-based services, such as looking up airline schedules and making reservations. Schindler asked for clarification about the bulletin board system. Fitzgerald said there were about 100 categories. For example, an IBM Personal Computer user could post a message to a category focused on that machine and connect with other users who could respond to questions about the system, look at hardware for sale, and so forth.
+
+Kildall asked about travel services--could he actually get a written ticket sent to him by making a reservation online? Fitzgerald said not directly through the airlines. Rather, the Source had its own online travel agency that users could access to order airline tickets and make hotel or rental car reservations. Depending on the time constraints, the user could then receive their tickets in the mail or pick them up at the airport.
+
+Cheifet noted that there were a lot of complaints from users of services like the Source--and its rival, CompuServe--about long response times and complicated interface commands. He asked Schindler about his own experiences in this regard. Schindler agreed that the most "fertile area" for making online database services more accessible was to make the interfaces easier to use. In particular, he said there was a burden in remembering long user ID numbers and passwords. He noted that the personal computer had made this easier, as he could store that information on the machine and call it up with the push of one button. That gave personal computers the advantage over dumb terminals when it came to online access. That said, he noted that many online databases, such as Dow Jones, still required memorizing cryptic text commands to retrieve information. 
+
+As for response time, Schindler said that was a problem that could be solved by throwing money at it. He noted that the Source and another rival, Dialog, had worked hard to increase the amount of equipment on their end so that response times were fairly reasonable. But there was still a "peak load" everyday when demand could not be met quickly enough. Fitzgerald pointed out that the heaviest usage for the Source came between 6 p.m. and 9 p.m. eastern time, when virtually the entire country was online during their night-time leisure hours. 
+
+## A 140 GB Peripheral for Personal Computers
+
+In the second and final roundtable, Roger Summit joined Cheifet, Kildall, and Fitzgerald. Summit was president of the aforementioned Dialog Information Systems. Summit explained that Dialog was an interactive computer-based information retrieval service. Their objective was to store on the computer basically all information that had been published within the last 10 years or so. Dialog started out as an institutional service for librarians and information specialists at major companies. But the personal computer had started to open the service up to individual end users.
+
+Summit then demonstrated Dialog's ability to search for article abstracts. He searched the National Library of Medicine's [MEDLINE database](https://www.nlm.nih.gov/medline/index.html) for articles that reference both laetrile and cyanide. Summit noted MEDLINE indexed 3,000 journals and contained a total of 4 million abstracts. In the case of his laetrile-cyanide search, MEDLINE returned 16 items. The user could then look at each abstract, and if they wanted to view the full article they could push a button to have a printed copy mailed to them.
+
+Kildall asked about the other databases available on Dialog. Summit said there were databases for virtually every area of business, medicine, engineering, science, and technology. Kildall asked how up to date were these databases. Summit said the professional societies responsible for the databases collected literature and send them to Dialog on tape. Dialog then updated the online databases on a daily, weekly, or in some cases monthly basis. 
+
+Kildall asked about the "freeform" nature of the language used to query the database. Summit said it basically relied on "AND OR NOT" logic gates combined with keywords. Kildall also asked about the cost and convenience factor with a system like Dialog. Summit replied that in terms of using Dialog, it essentially functioned as a peripheral of 140 GB to the personal computer at the end of a telephone line. Kildall mentioned the actual cost of using the service. Summit said the average query would run the user anywhere between $2 and $5. He added that Dialog also offered an after-hours service that included the company's principal databases for 40 cents a minute, which was cheaper than the regular daytime service.
+
+Cheifet asked about the future of online databases--would we get to the point where such systems might include graphics? Summit said the immediate next step was offering complete source documents, i.e., the full text of articles as opposed to just abstracts. He said there was already a major project underway to accomplish this. Right now, Summit said Dialog currently offered the full text of the Harvard Business Review online, and the UPI newswire was coming soon.
+
+Kildall then brought up the possibility of video discs--which offered up to 1 GB of storage--emerging as a competitor for database services on personal computers. Summit conceded there might be a market for video discs in specialized areas where there was intense interest. But with respect to more generalized databases like Dialog, the coverage was so comprehensive, and the use density so low, that even compared to video discs it was still more cost-effective to store that information centrally and allow users to access it when needed.
+
+Cheifet then reiterated his earlier point about user complaints over slow response times. Would online services really be able to keep up with demand? Fitzgerald admitted there was certainly a technical limitation. But the Source had ramped itself up to such a speed where it could now anticipate and keep ahead of demand.
+
+Cheifet then raised another possible competitor to telephone-based services in the form of cable. Fitzgerald said at this point, he did not see much completion coming from cable, although it would likely play a more important role as time went on and more cable systems were installed throughout the country. But for now, telephone-based systems were satisfying the needs of customers.
+
+Kildall pointed out, however, that telephone only worked well in areas where there was a local interface. He lived in the Monterey area, where accessing online services usually required paying high long distance charges. Fitzgerald replied that the primary networks used by the Source--and he believed by Dialog as well--were expanding on a weekly basis, with new nodes being installed in more remote locations.
+
+Cheifet concluded by asking if would be possible in the future to see a merger of database management software and a service like Dialog, perhaps in the form of artificial intelligence that could identify a needed piece of information locally and retrieve it remotely. Summit said he could see things moving in that direction, particularly in specialized areas like pulling together a dossier on a person, product, or company.
+
+## The Source Promised to Launch the Information Age, But Quickly Fell Back to Earth
+
+Of the two online services discussed in this episode, the Source was clearly the less successful. Indeed, the service's parent company, Source Telecomputing Corporation, had a fairly tumultuous run. Jimmy Maher published an extensive history of Source Telecomputing for his blog, [*The Digital Antiquarian*](https://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-magnificent-rogue/), in 2017, which began with the story of the service's high-profile launch:
+
+> On July 9, 1979, journalists filtered into one of the lavish reception halls in Manhattan’s Plaza Hotel to witness the flashy roll-out of The Source, an online service for home-computer owners that claimed to be the first of its kind. The master of ceremonies was none other than the famous science-fiction and science-fact writer Isaac Asimov. With his nutty-professor persona in full flower, his trademark mutton-chop sideburns bristling in the strobe of the flashbulbs, Asimov said that “this is the beginning of the Information Age! By the 21st century, The Source will be as vital as electricity, the telephone, and running water.”
+
+As Maher noted, however, Asimov wasn't the only colorful character present. There was also the founder of the Source, William Von Meister, whom Maher described as "high-strung, mercurial, careless, [and] sometimes a little unhinged." Von Meister, who died in 1995, would be remembered primarily for another startup he founded in 1983, Control Video Corporation, which was the predecessor to America Online.
+
+The Source, meanwhile, sputtered out of the launch bay. Maher said that by March 1980, the service "had managed to attract about 3,000 subscribers, but the online citizens were growing restless," due to a lack of promised features and reliability issues. The Source's electronic mail system, for example, was "down about half the time," according to Maher, "and even when it was allegedly working it was anyone’s guess whether a message that was sent would actually be delivered."
+
+Not surprisingly, the parent company, originally called Digital Broadcasting Corporation, was also bleeding money. Maher said Von Meister's business partner, Jack Taub, had "little awareness" of "what Von Meister was doing with the company's money." Eventually, Digital Broadcasting defaulted on a government-secured loan, which forced the United States Department of Commerce to pay $3.2 million to a North Carolina bank. Under threat of government seizure, Taub agreed to give the government $300,000 upfront and repay the rest of the $3.2 million over the next 22 years.
+
+Taub then quickly moved to sell the now-renamed Source Telecomputing Corporation to The Reader's Digest Association--yes, the people who publish the magazine. This was then complicated when Von Meister sued Taub after the former was forced out of the company. Eventually, the Reader's Digest sale went through, and it controlled the Source during the period when it was featured on *Computer Chronicles*.
+
+But new ownership apparently did not turn things around. A July 1982 report in [*The New York Times*](https://www.nytimes.com/1982/07/26/business/digest-s-disappointing-source.html), said, "Despite heavy investment in the Source, the company so far has not reached the goals the Digest set for it," and Reader's Digest was already "disillusioned with its venture into electronics" and looking to sell. An unidentified source--no pun intended--told the *Times* that the Source was losing between $5 million and $7 million. While Reader's Digest did not immediately bail on the Source, it did sell a substantial stake to Control Data Corporation, a well-kwown mainframe and supercomputer manufacturer, which came in as an operating partner.
+
+As for the online service itself, the *Times* noted that although the Source was cheaper than most "commercial electronic data banks" of the time, its prices were still considered too high for most home users. Customers had to pay a one-time registration fee of $100 just to obtain the Source software. (A [brochure](https://generalphiles.com/files/Online%20Services/The%20Source%20Mini%20TriFold.pdf) from 1984 showed this fee was later slashed to $29.95.). The user then had to pay an additional monthly fee plus online access rates then varied between $5.75 and $29.75 per hour. In his own report, Maher said the minimum hourly rate had risen to $7.74 per hour by 1984--around the time of the *Chronicles* episode--and that while the service had about 60,000 subscribers at that point, many of them "rarely or never logged on, paying only the minimum monthly charge of $10."
+
+In March 1989, The Source was sold to, and shutdown by, its leading rival, CompuServe. At the time, The Source had about 40,000 subscribers, according to [FundingUniverse](http://www.fundinguniverse.com/company-histories/compuserve-interactive-services-inc-history/).
+
+## The Father of Online Systems
+
+In contrast to the Source, Dialog proved to be a much more durable online service. In fact, Dialog still exists. Its current owner is ProQuest, who purchased Dialog--now called [Dialog Solutions](https://dialog.com/)--from Thomson Reuters in 2008. 
+
+Roger Summit founded Dialog while working at Lockheed Corporation's Palo Alto Research Laboratory. Summit explained in a 2003 interview with Susanne Bjørner and Stephanie C. Ardito for the database industry magazine *Searcher*, that he started experimenting with information retrieval programs at Lockheed in the mid-1960s. These experiments eventually led to the creation of a NASA-funded database system around 1968, which Summit called "Dialog." Summit's work later led many to describe him as the "father of online systems," particularly with respect to search technology. 
+
+Lockheed started offering Dialog as a commercial online service in 1972. Summit spun off Dialog as a Lockheed-owned subsidiary in 1981. In 1988, newspaper publisher Knight-Ridder acquired Dialog and renamed the subsidiary Knight-Ridder Information, Inc. It became known as Dialog Corporation after British information services company M.A.I.D., plc, purchased Knight-Ridder Information in 1997. Thomson Reuters then acquired Dialog Corporation three years later.
+
+As for Summit, he remained with Dialog through its many ownership changes as a consultant with the title of chairman emeritus. In the 2003 interview, Summit said he was pursuing the "four major passions in my life: family, technology, music, and sailing," in addition to serving on the boards of various corporations and non-profit organizations. The most recent public appearance I could find from Summit was a 2005 [Google Tech Talk](https://www.youtube.com/watch?v=wMYuRhUpw48) on the origins of Dialog.
+
+## Notes from the Random Access File
+
++ This episode is available at the [Internet Archive](https://archive.org/details/Database1984). There was no definitive recording or airdate, but I would peg this episode around January 1984 based on the email messages seen during Jay Fitzgerald's Source demo.
++ Speaking of Fitzgerald, I was unable to locate any information about him or his post-*Chronicles* activities. 
++ I recently learned that Paul Schindler [has a blog](https://psacot.typepad.com/)!
++ On top of all of Source Telecomputing Corporation's other problems, the company faced a trademark infringement lawsuit in 1986 from Source Services Corporation, an Illinois-based company that provided "career guidance and personnel placement services." The case survived summary judgment in a [published opinion](https://scholar.google.com/scholar_case?case=12533477862785406398), but I'm not sure about the final outcome. 
++ In case you're wondering why Summit used "laetrile and cyanide" for his research example, there was quite a bit of controversy in the 1970s and early 1980s over the use of laetrile--a bitter substance found in fruit pits--as a treatment for cancer. The U.S. government banned laetrile for medical use (over the objections of a number of state governments), because it produces cyanide when introduced into the body.
++ The thumbnail image for this post is taken from a magazine advertisement for the Source from 1985. For the benefit of the visually impaired who require a screen reader, here is the text of the ad copy:
+
+> At last, a beacon to help you navigate the vast sea of personal computer technology. 
+>
+> It's The Source. The online information service that can guide you to the best deals in the PC market. Shed light on your software problems. And signal the latest developments in micros.
+>
+> With The Source, you can buy, sell, or swap hardware and software. Learn new applications from a Special Interest Group. See what's been written about the printer you're planning to buy. Or sens out an SOS to thousands of other PC users when you need advice.
+>
+> What's more, The Source can enlighten you with current information on everything from business to travel, investments to world news.
+>
+> Whatever kind of help you're after, you can find it faster on The Source. With a system of easy commands and menus. Plus a tutorial--free of online charges--that'll bring you up to speed in a snap.
+>
+> To sign up today, call 1-800-336-3366. For more information, mail this coupon, or visit your nearest dealer.
+>
+> Then, no matter how many waves of new technology rock your boat, you'll start right on course.
+
++ Yes, I called the number. It's now a Medical Alert Center.
+
+## Support Me on Ko-fi
+
+I recently launched a [Ko-fi](https://ko-fi.com/smoliva) page to help defray my costs in running this blog. So if you would like to throw me a buck or two to help pay the VPS bills, I’d greatly appreciate it!
