@@ -60,10 +60,6 @@ theme = "mainroad"
   url = "https://www.smoliva.blog/categories/computer-chronicles-revisited/index.xml"
 
 [[Params.widgets.blogroll.custom]]
-  title = "512 Pixels"
-  url = "https://512pixels.net"
-
-[[Params.widgets.blogroll.custom]]
   title = "Alan Pope's Blog"
   url = "https://popey.com/blog/"
 
@@ -86,10 +82,6 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "FOSS Patents"
   url = "http://www.fosspatents.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "How Appealing"
-  url = "https://howappealing.abovethelaw.com/"
 
 [[Params.widgets.blogroll.custom]]
   title = "Irrational Notes"
@@ -118,14 +110,6 @@ theme = "mainroad"
 [[Params.widgets.blogroll.custom]]
   title = "The Digital Antiquarian"
   url = "https://www.filfre.net/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "The Time of Monsters"
-  url = "https://jeetheer.substack.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Tiny House Giant Journey"
-  url = "https://tinyhousegiantjourney.com/blog/"
 
 [[Params.widgets.blogroll.custom]]
   title = "Video Game History Foundation"
