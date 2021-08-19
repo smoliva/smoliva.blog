@@ -68,6 +68,10 @@ theme = "mainroad"
   url = "https://anaisurl.com/"
 
 [[Params.widgets.blogroll.custom]]
+  title = "Ashley M. Gjøvik"
+  url = "https://www.ashleygjovik.com/ashleys-apple-story-tldr.html"
+
+[[Params.widgets.blogroll.custom]]
   title = "Cultivating Mental Silence"
   url = "https://www.cultivatingmentalsilence.com/"
 
