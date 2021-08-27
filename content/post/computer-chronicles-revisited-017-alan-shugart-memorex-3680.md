@@ -10,7 +10,6 @@ tags:
   - "Gary Kildall"
   - "Alan Shugart"
   - "Frank Sordello"
-  - "John Siracusa"
   - "Marco Arment"
   - "John C. Dvorak"
   - "Kenneth Haughton"
@@ -22,9 +21,7 @@ tags:
   - "IBM"
 ---
 
-[John Siracusa](https://hypercritical.co/), one of the hosts of the [*Accidental Tech Podcast*](https://atp.fm/), is often credited with citing the "infinite timescale" problem when it comes to predicting when a new technology will arrive. The infinite timescale--a somewhat inaccurate description coined by one of Siracusa's co-hosts, [Marco Arment](https://marco.org/)--essentially refers to the notion, "We all agree that this thing will happen at some point in the future, but it won't happen this year, or next year, or the year after that...but it's going to happen eventually." (This particular explanation is paraphrased from [episode 125](https://atp.fm/125) of *ATP*.)
-
-This next episode of *The Computer Chronicles* from 1984 presents one such illustration of the infinite timescale problem. The subject is storage devices, specifically disk drives. At this point in the microcomputer revolution, the 5.25-inch floppy disk is the accepted standard. But a number of new technologies are vying to supplant it. And while Gary Kildall was bullish on at least some of these new technologies eventually gaining mainstream acceptance, one of the guests aggressively pushed back on the idea.
+This next episode of *The Computer Chronicles* from 1984 is about storage devices, specifically disk drives. At this point in the microcomputer revolution, the 5.25-inch floppy disk is the accepted standard. But a number of new technologies are vying to supplant it. And while Gary Kildall was bullish on at least some of these new technologies eventually gaining mainstream acceptance, one of the guests aggressively pushed back on the idea.
 
 ## A Brief History of Computer Storage Devices
 
@@ -89,12 +86,6 @@ Around the time of his *Chronicles* appearance, Shugart was replaced as presiden
 ### Frank J. Soredello (1937 - 1999)
 
 There's less public information regarding Frank Sordello, who passed away in 1999. According to a [*Washington Post* obituary](https://www.washingtonpost.com/archive/local/1999/06/19/deaths-elsewhere/e99105db-2562-4ad3-a785-e832d37a16a6/), Sordello spent his career as an engineer. He held 44 patents--38 of which he had obtained before his *Chronicles* appearance--and like Alan Shugart, he started his career at IBM. He left Big Blue to co-found his own disk drive manufacturer, Information Storage Systems, before joining Memorex in the late 1970s as a vice president.
-
-### The Not-So-Infinite Timescale
-
-As I discussed in my introduction, this episode really touched on the problem of trying to project when one technology will be replaced by another. Alan Shugart took a comically militant approach to defending his company's existing products, shooting down every suggestion that anything might replace it. But I do think this was a case of the infinite timescale problem, as Frank Sordello's more nuanced answers to the same questions indicated. 
-
-Keep in mind, Apple shipped the original Macintosh in January 1984 with a 3.5-inch micro-floppy drive. That got the ball rolling. While 5.25-inch mini-floppy disks did not disappear right away, within roughly five years the 3.5-inch disks had become dominant. And of course, by the early 1990s, many personal computer systems were equipped with optical storage in the form of CD-ROM (and later DVD-ROM) drives. Alan Shugart may not have been able to predict this timetable sitting from his perch atop Seagate in late 1983, but on the proverbial "infinite timescale," the 5.25-inch floppy disk drive had already peaked and was on track to be replaced by newer technology at some point.
 
 ## Notes from the Random Access File
 
