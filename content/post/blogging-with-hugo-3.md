@@ -5,13 +5,7 @@ date: 2021-04-27
 categories:
   - "Open Source"
 tags:
-  - "Linux"
   - "Hugo"
-  - "SSH"
-  - "rsync"
-  - "Markdown"
-  - "Mastodon"
-  - "Git"
 ---
 
 [My last post](https://www.smoliva.blog/post/blogging-with-hugo-2/) detailed the process of setting up the virtual private server (VPS) to host this blog. In this final post, I'll go into the mechanics of actually developing the blog using [Hugo](https://gohuo.io).

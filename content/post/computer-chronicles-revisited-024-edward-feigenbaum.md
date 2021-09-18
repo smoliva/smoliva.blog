@@ -6,20 +6,7 @@ thumbnail: "img/cc-billion.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Edward Feigenbaum"
-  - "Herbert Lechner"
-  - "Pamela McCorduck"
-  - "Adrian Black"
-  - "Apple"
-  - "Semiconductor Research Corporation"
-  - "MCI"
-  - "Coleco"
-  - "Atari"
-  - "Fortune Systems"
-  - "Franklin Computers"
-  - "Lotus Corporation"
+  - "Fifth-Generation-Computers"
 ---
 
 For this episode, I'm going to handle things a bit differently. There was only a single guest--Stanford University computer science professor Edward Feigenbaum--and the subject is one that, quite frankly, does not strike me as all that interesting. So rather than do an extended point-by-point recap of the episode, I'm just going to summarize in broad strokes. Trust me, if you had watched the episode, you'd thank me.
@@ -81,7 +68,7 @@ Feigenbaum retired from the Stanford faculty in 2000. He turned 85 this past Jan
 + The [Coleco Adam](https://www.old-computers.com/museum/computer.asp?st=1&c=57) did not fare well on the market, lasting only two years before it was discontinued in 1985.
 + If Nolan Bushnell's "Pizza Time Theatre" featuring robots and arcade games sounds awfully familiar--yup, that's Chuck E. Cheese. Bushenll opened the first Pizza Time Theatre in San Jose in 1977 when he was still at Atari. Bushnell later bought back the rights to the concept from Warner Communications and proceeded to franchise Chuck E. Cheese. But a few months after this *Chronicles* episode aired, Bushnell was forced to file for Chapter 11 and sold the company to his former business partner.
 + As we learned in the [last post](https://smoliva.blog/post/computer-chronicles-revisited-023-steve-wozniak-adam-osborne-lore-harp-gene-amdahl/#adam-osborne-1939---2003), Lotus did not take too kindly to all those 1-2-3 clones.
-+ During Stewart Cheifet's "Random Access" item on semiconductor sales, they actually displayed a graphic that said "ELEVEN BILLION DOLLARS." I made it the thumbnail for this post because that just made me laugh.
++ During Stewart Cheifet's "Random Access" item on semiconductor sales, they actually displayed a graphic that said "ELEVEN BILLION DOLLARS." 
 + Again, I apologize for not doing my usual full-length recap of the episode. But it's difficult to recap what was basically just a long monologue by Edward Feigenbaum. He just kept talking in one long incredibly unbroken sentence moving from topic to topic so that no one had a chance to interrupt, it was really quite hypnotic...
 
 ## Support Me on Ko-fi

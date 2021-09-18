@@ -6,15 +6,7 @@ thumbnail: "img/cc-wordvision.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Paul Schindler"
-  - "Jim Edllin"
-  - "Warren Kuhl"
-  - "Wayne Holder"
-  - "AT&T"
-  - "System V"
-  - "Kaypro"
+  - "Word-Processors"
  
 ---
 

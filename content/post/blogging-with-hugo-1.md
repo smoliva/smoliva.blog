@@ -5,10 +5,7 @@ date: 2021-04-25
 categories:
   - "Open Source"
 tags:
-  - "Linux"
   - "Hugo"
-  - "Hover"
-  - "Linode"
 ---
 
 In developing [my new blog](https://smoliva.blog), I opted to build a static website using [Hugo](https://gohugo.io) and other open source software tools, as opposed to using an all-in-one commercial service like Squarespace or WordPress. There are certain advantages to this DIY approach, as well as drawbacks. So in this series of posts, I'll walk through my thought process in deciding to use Hugo and explain the steps I took in building this blog "from scratch."

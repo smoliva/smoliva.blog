@@ -6,22 +6,7 @@ thumbnail: "img/cc-apple-lisa.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "John Couch"
-  - "Bill Coleman"
-  - "Steve Jobs"
-  - "Steve Wozniak"
-  - "Stephen Hackett"
-  - "Robin Webster"
-  - "Dan Bricklin"
-  - "John Markoff"
-  - "Ronald K. Lakis"
-  - "Alan Kay"
-  - "Apple"
-  - "VisiCorp"
-  - "Apple Lisa Association"
-  - "Xerox"
+  - "Integrated-Software"
 ---
 
 There was apparently a roughly two-month gap between the taping of episodes of *The Computer Chronicles* in late 1983 and their initial airing in early 1984. Looking back 37 years later, this gap may not seem that significant. But in just the second broadcast episode, it may be that *Chronicles* unintentionally provided information that was already out-of-date to its PBS audience.
@@ -45,6 +30,8 @@ Kildall pointed out that Apple's real breakthrough with the Lisa was in terms of
 Cheifet then asked Couch about what kind of user he had in mind when he developed the Lisa. In a typically Apple response, Couch said the target users were the developers themselves. Echoing the legend of Jobs and Steve Wozniak—they couldn't buy a computer they wanted so they built one themselves—Couch said they developed an integrated computer that a user could learn to use in less than a half-hour. Couch emphasized the importance of the Lisa project in penetrating the business market, pointing out there were "still 32.5 million people" working in offices could benefit from the use of a personal computer, but they were limited by the time it took to learn a machine like the Star. 
 
 Kildall retorted that some folks were critical of the Lisa's half-hour learning time, dismissing Apple's graphical interface as relying on "cutesy" gimmicks like an animated trashcan. Couch said he didn't see a problem. The garbage can was simply an alternative way to delete files. And he rejected Kildall's implicit argument that the Lisa was not a serious business machine. Couch noted that he still used the Lisa to run his own business. To that point, Couch offered a demo of the Lisa using his company's sales spreadsheets.
+
+![John Couch demonstrates the Apple Lisa to Stewart Cheifet and Gary Kildall.](/img/cc-apple-lisa.png)
 
 The demo itself was basically Couch showing how cut-and-paste works, selecting a column of data from the sales spreadsheet and pasting it to the Lisa's graphing program to make a pie chart. Cheifet had to end the segment for time, quipping, "I know it took you three years to figure this out and I only gave you 3 minutes to demonstrate it."
 

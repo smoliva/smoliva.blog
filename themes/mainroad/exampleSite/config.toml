@@ -1,35 +1,60 @@
-baseurl = "/"
-title = "Mainroad"
+baseurl = "https://smoliva.blog"
+title = "S.M. Oliva"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "S.M. Oliva"
+  bio = "S.M. Oliva is a writer living in Virginia."
+  avatar = "img/avatar.jpg"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "A blog by S.M. Oliva reviewing the people and products featured on the PBS series 'Computer Chronicles,' which aired from 1983 to 2002." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
+  toc = true # Enable table of contents for each post
   post_meta = ["date", "categories"] # Order of post meta information
+  copyright = "S.M. Oliva, LLC"
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "My Personal Blog" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["sidemenu", "categories", "social"]
+
+[Params.style.vars]
+  highlightColor = "#93278e" # Override highlight color
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  email = "smo@smoliva.com"
+  github = "smoliva"
+  twitter = "ChronRevisited"
+
+[[Params.widgets.social.custom]]
+  title = "Support Me on Ko-fi"
+  url = "https://ko-fi.com/smoliva"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://mastodon.social/@smoliva"
+
+[[Params.widgets.social.custom]]
+  title = "RSS — All Posts"
+  url = "https://smoliva.blog/index.xml"
+
+[[Params.widgets.social.custom]]
+  title = "RSS — Computer Chronicles Revisited"
+  url = "https://www.smoliva.blog/categories/computer-chronicles-revisited/index.xml"

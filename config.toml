@@ -1,120 +1,64 @@
-baseurl = "https://smoliva.blog"
-title = "S.M. Oliva"
-languageCode = "en-us"
-paginate = "10" # Number of posts per page
-theme = "mainroad"
+baseURL = "https://smoliva.blog"
+title = "Computer Chronicles Revisited"
+theme = "m10c"
+paginate = 8
 
-[Author]
-  name = "S.M. Oliva"
-  bio = "S.M. Oliva is a writer living in Virginia."
-  avatar = "img/avatar.jpg"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
 
-[Params]
-  description = "A blog about the Computer Chronicles and other topics." # Description of your site
-  opengraph = true
-  twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
-  authorbox = true
-  pager = true
-  toc = true # Enable table of contents for each post
-  post_meta = ["date", "categories"] # Order of post meta information
-  copyright = "S.M. Oliva, LLC"
+[params]
+  author = "S.M. Oliva"
+  description = "A review of the PBS series that aired from 1983 to 2002. Written by S.M. Oliva."
+  avatar = "/img/cc-thayer.png"
+#  avatar = "/img/avatar.jpg"
+  favicon = "/img/favicon.ico"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "mail"
+    name = "Email"
+    url = "mailto:smo@smoliva.com"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/smoliva"
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/ChronRevisited"
+  [[params.social]]
+    icon = "rss"
+    name = "RSS"
+    url = "https://smoliva.blog/index.xml"
 
-[Params.logo]
-  subtitle = "My Personal Blog" # Logo subtitle
+  # Default theme
+  #[params.style]
+  #  darkestColor = "#242930"
+  #  darkColor = "#353b43"
+  #  lightColor = "#afbac4"
+  #  lightestColor = "#ffffff"
+  #  primaryColor = "#57cc8a"
 
-[Params.sidebar]
-  home = "right"   # Configure layout for home page
-  list = "right"   # Configure layout for list pages
-  single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["sidemenu", "categories", "social", "blogroll"]
+  # Green theme
+  #[params.style]
+  #  darkestColor = "#315659"
+  #  darkColor = "#253031"
+  #  lightColor = "#96a879"
+  #  lightestColor = "#fff"
+  #  primaryColor = "#dad865"
 
-[Params.style.vars]
-  highlightColor = "#93278e" # Override highlight color
-
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
-
-[Params.widgets.social]
-  # Enable parts of social widget
-  email = "smo@smoliva.com"
-  github = "smoliva"
-  twitter = "ChronRevisited"
-
-[[Params.widgets.social.custom]]
-  title = "Support Me on Ko-fi"
-  url = "https://ko-fi.com/smoliva"
-
-[[Params.widgets.social.custom]]
-  title = "Mastodon"
-  url = "https://mastodon.social/@smoliva"
-
-[[Params.widgets.social.custom]]
-  title = "RSS — All Posts"
-  url = "https://smoliva.blog/index.xml"
-
-[[Params.widgets.social.custom]]
-  title = "RSS — Computer Chronicles Revisited"
-  url = "https://www.smoliva.blog/categories/computer-chronicles-revisited/index.xml"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Alan Pope's Blog"
-  url = "https://popey.com/blog/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Anais Urlichs"
-  url = "https://anaisurl.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Cultivating Mental Silence"
-  url = "https://www.cultivatingmentalsilence.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "DFIR Diva"
-  url = "https://dfirdiva.com/hooked-on-osint/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Ed Zitron's Where's Your Ed At"
-  url = "https://ez.substack.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "FOSS Patents"
-  url = "http://www.fosspatents.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Irrational Notes"
-  url = "https://www.irrationalnotes.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "OMG! Ubuntu!"
-  url = "https://www.omgubuntu.co.uk/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "P.S. A Column on Things"
-  url = "https://psacot.typepad.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Stargirl Flowers"
-  url = "https://blog.thea.codes/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "The Charlottesville 29"
-  url = "https://charlottesville29.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "The CRPG Addict"
-  url = "https://crpgaddict.blogspot.com/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "The Digital Antiquarian"
-  url = "https://www.filfre.net/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Video Game History Foundation"
-  url = "https://gamehistory.org/blog/"
-
-[[Params.widgets.blogroll.custom]]
-  title = "Working Title"
-  url = "https://workingtitlebookshop.wordpress.com/"
+  # Red theme
+  #[params.style]
+  #  darkestColor = "#d35050"
+  #  darkColor = "#212121"
+  #  lightColor = "#d6d6d6"
+  #  lightestColor = "#d3d3d3"
+  #  primaryColor = "#ffffff"

@@ -802,20 +802,24 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-.toc__menu ul ul ul a {
+.toc__menu li li a {
 	padding-left: 25px;
 }
 
-.toc__menu ul ul ul ul a {
+.toc__menu li li li a {
 	padding-left: 45px;
 }
 
-.toc__menu ul ul ul ul ul a {
+.toc__menu li li li li a {
 	padding-left: 65px;
 }
 
-.toc__menu ul ul ul ul ul ul a {
+.toc__menu li li li li li a {
 	padding-left: 85px;
+}
+
+.toc__menu li li li li li li a {
+	padding-left: 105px;
 }
 
 .toc__menu li {
@@ -1133,24 +1137,6 @@ textarea {
 }
 
 .widget-social__link-icon {
-	margin: 0 5px 0 0;
-	vertical-align: middle;
-	fill: #fff;
-}
-
-/* Blogroll widget */
-.widget-blogroll__item {
-	padding: 0;
-	border: 0;
-}
-
-.widget-blogroll__link {
-	display: block;
-	margin: 0 0 8px;
-	white-space: normal;
-}
-
-.widget-blogroll__link-icon {
 	margin: 0 5px 0 0;
 	vertical-align: middle;
 	fill: #fff;

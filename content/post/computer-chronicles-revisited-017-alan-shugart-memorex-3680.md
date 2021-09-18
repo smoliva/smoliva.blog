@@ -6,19 +6,7 @@ thumbnail: "img/cc-bubble.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Alan Shugart"
-  - "Frank Sordello"
-  - "Marco Arment"
-  - "John C. Dvorak"
-  - "Kenneth Haughton"
-  - "Techmoan"
-  - "Jerome Drexler"
-  - "Memorex"
-  - "Seagate"
-  - "RCA"
-  - "IBM"
+  - "Storage-Devices"
 ---
 
 This next episode of *The Computer Chronicles* from 1984 is about storage devices, specifically disk drives. At this point in the microcomputer revolution, the 5.25-inch floppy disk is the accepted standard. But a number of new technologies are vying to supplant it. And while Gary Kildall was bullish on at least some of these new technologies eventually gaining mainstream acceptance, one of the guests aggressively pushed back on the idea.
@@ -41,7 +29,11 @@ Kildall noted that Seagate was now producing "Winchester" drives, i.e., hard dis
 
 Kildall said that one criticism of using hard disks with small computers was the concern about breaking the mechanical parts when moving the drives around. Was Shugart concerned about the reliability of hard disk drives? Shugart agreed the hard drives were more susceptible to damage from shock or vibration versus a floppy drive. The hard drive's magnetic heads had to stay in contract with the media at all times, unlike a floppy drive where you could remove the diskettes to protect them from damage. So in that sense, the Winchester drives were more delicate. Kildall asked if this problem would be addressed in the future. Shugart said newer versions of the drivers would be more shock resistant.
 
-Kildall then showed an example of a 5.25-inch floppy drive. He noted it still had a lot of mechanical components inside, making it akin to the ["Model T"](https://en.wikipedia.org/wiki/Ford_Model_T) of computing. Then Kildall produced an example of non-mechanical storage technology, Intel's bubble memory module, which could hold 1 MB on a single chip. (The thumbnail image for this post is of Kildally showing off this module.) Kildall said some people--presumably including himself--believed that some form of semiconductor-based storage like bubble memory would eventually replace the floppy disk drive. Did Shugart agree? He emphatically did not. Shugart noted the floppy disk drive had a theoretically unlimited storage capacity, because the user could keep removing the disk and putting in a new one. Bubble memory could not offer this. And on a cost-per-bit basis, Shugart believed you would never be able to beat magnetic disk storage with a semiconductor device.
+Kildall then showed an example of a 5.25-inch floppy drive. He noted it still had a lot of mechanical components inside, making it akin to the ["Model T"](https://en.wikipedia.org/wiki/Ford_Model_T) of computing. Then Kildall produced an example of non-mechanical storage technology, Intel's bubble memory module, which could hold 1 MB on a single chip. 
+
+![Gary Kildall displaying an Intel 1MB bubble memory module](/img/cc-bubble.png)
+
+Kildall said some people--presumably including himself--believed that some form of semiconductor-based storage like bubble memory would eventually replace the floppy disk drive. Did Shugart agree? He emphatically did not. Shugart noted the floppy disk drive had a theoretically unlimited storage capacity, because the user could keep removing the disk and putting in a new one. Bubble memory could not offer this. And on a cost-per-bit basis, Shugart believed you would never be able to beat magnetic disk storage with a semiconductor device.
 
 Cheifet then pointed to the fact many personal computers now came with a 3.5-inch (or "micro-floppy") floppy disk drive. Could Shugart see this smaller size replacing the traditional 5.25-inch disks? Again, Shugart said no. While he conceded there was a market for the smaller size--and, he noted, there were actually a number of competing micro-floppy standards ranging between 3 and 3.75 inches--none would ever replace the 5.25-inch mini-floppy. The main reason, he said, was that most of the world's software was written on 5.25-inch disks and you would never "in your wildest imagination" transcribe all of that software onto smaller disks. He said it just would not be done.
 

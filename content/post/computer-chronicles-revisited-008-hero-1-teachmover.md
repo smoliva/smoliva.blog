@@ -6,16 +6,7 @@ thumbnail: "img/cc-teachmover.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "David Nitzan"
-  - "Matt Guerrieri"
-  - "George Oliver"
-  - "Guy W. Rhodes"
-  - "Steven Leninger"
-  - "SRI International"
-  - "MicroBot"
-  - "Heathkit"
+  - "Robotics"
   
 ---
 

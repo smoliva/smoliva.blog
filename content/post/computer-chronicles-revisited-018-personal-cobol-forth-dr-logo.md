@@ -6,18 +6,7 @@ thumbnail: "img/cc-rather.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Paul O'Grady"
-  - "J. David Eisenberg"
-  - "Elizabeth Rather"
-  - "Niklaus Wirth"
-  - "Chuck Moore"
-  - "David Thornburg"
-  - "Micro Focus"
-  - "Apple"
-  - "Forth"
-  - "Digital Research"
+  - "Programming-Languages"
 ---
 
 In [Part 16](https://www.smoliva.blog/post/computer-chronicles-revisited-016-apple-logo-programming-language/), we saw a demonstration of Apple Logo, a computer programming language promoted as an alternative to BASIC. This next episode of *The Computer Chronicles* features another version of Logo--this one developed and sold by co-host Gary Kildall's Digital Research--as well as a broader discussion of the state of computer programming languages around early 1984. The other languages presented in this episode--COBOL, Forth, and Pascal--are still in use today, even if they are not necessarily at the top of the [Stack Overflow survey of most popular programming languages](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents).
@@ -56,7 +45,7 @@ Cheifet returned to O'Grady, asking him what he saw as the use for Personal COBO
 
 For the final segment, Elizabeth Rather joined Cheifet, Kildall, and Eisenberg. Rather was president of [Forth, Inc.](https://www.forth.com/), which produced the Forth programming language. Cheifet asked Rather what made Forth unique. She said there two things. First, it was the only programming language designed from "first principles" to work on a small computer doing interactive software development for real-time applications. Second, Forth worked on all three levels of programming that Kildall discussed during the introduction. It could work at the machine code, systems programming, and higher user levels. 
 
-Rather demonstrated Forth on an IBM Personal Computer. She noted that the operating system used to run the demo was itself written in Forth. She demonstrated a simple graphics application that generated and displayed the Forth corporate logo and performed a series of area fills. (See the thumbnail image above.) 
+Rather demonstrated Forth on an IBM Personal Computer. She noted that the operating system used to run the demo was itself written in Forth. She demonstrated a simple graphics application that generated and displayed the Forth corporate logo and performed a series of area fills.  
 
 There was then an exchange between Kildall and Rather over the combination of assembly language and Forth in the code used to produce this program. Rather clarified it was a mix of the two. With Forth, you could put in as much assembly as needed, either to control the hardware directly or to make things run faster.
 

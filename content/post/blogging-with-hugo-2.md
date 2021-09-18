@@ -5,13 +5,7 @@ date: 2021-04-26
 categories:
   - "Open Source"
 tags:
-  - "Linux"
   - "Hugo"
-  - "Hover"
-  - "Linode"
-  - "Digital Ocean"
-  - "Debian"
-  - "SSH"
 ---
 
 In [Part 1](https://www.smoliva.blog/post/blogging-with-hugo-1/), I explained my decision to go with Hover for domain registation and Linode for the virtual private server (VPS) I use for this blog. Now, I'll briefly review the process of setting up the VPS and getting it to work with my domain.

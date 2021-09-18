@@ -1,0 +1,120 @@
+baseurl = "https://smoliva.blog"
+title = "S.M. Oliva"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+
+[Author]
+  name = "S.M. Oliva"
+  bio = "S.M. Oliva is a writer living in Virginia."
+  avatar = "img/avatar.jpg"
+
+[Params]
+  description = "A blog about the Computer Chronicles and other topics." # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  toc = true # Enable table of contents for each post
+  post_meta = ["date", "categories"] # Order of post meta information
+  copyright = "S.M. Oliva, LLC"
+
+[Params.logo]
+  subtitle = "My Personal Blog" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["sidemenu", "categories", "social", "blogroll"]
+
+[Params.style.vars]
+  highlightColor = "#93278e" # Override highlight color
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  email = "smo@smoliva.com"
+  github = "smoliva"
+  twitter = "ChronRevisited"
+
+[[Params.widgets.social.custom]]
+  title = "Support Me on Ko-fi"
+  url = "https://ko-fi.com/smoliva"
+
+[[Params.widgets.social.custom]]
+  title = "Mastodon"
+  url = "https://mastodon.social/@smoliva"
+
+[[Params.widgets.social.custom]]
+  title = "RSS — All Posts"
+  url = "https://smoliva.blog/index.xml"
+
+[[Params.widgets.social.custom]]
+  title = "RSS — Computer Chronicles Revisited"
+  url = "https://www.smoliva.blog/categories/computer-chronicles-revisited/index.xml"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Alan Pope's Blog"
+  url = "https://popey.com/blog/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Anais Urlichs"
+  url = "https://anaisurl.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Cultivating Mental Silence"
+  url = "https://www.cultivatingmentalsilence.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "DFIR Diva"
+  url = "https://dfirdiva.com/hooked-on-osint/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Ed Zitron's Where's Your Ed At"
+  url = "https://ez.substack.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "FOSS Patents"
+  url = "http://www.fosspatents.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Irrational Notes"
+  url = "https://www.irrationalnotes.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "OMG! Ubuntu!"
+  url = "https://www.omgubuntu.co.uk/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "P.S. A Column on Things"
+  url = "https://psacot.typepad.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Stargirl Flowers"
+  url = "https://blog.thea.codes/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The Charlottesville 29"
+  url = "https://charlottesville29.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The CRPG Addict"
+  url = "https://crpgaddict.blogspot.com/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "The Digital Antiquarian"
+  url = "https://www.filfre.net/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Video Game History Foundation"
+  url = "https://gamehistory.org/blog/"
+
+[[Params.widgets.blogroll.custom]]
+  title = "Working Title"
+  url = "https://workingtitlebookshop.wordpress.com/"

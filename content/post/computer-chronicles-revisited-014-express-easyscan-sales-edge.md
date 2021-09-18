@@ -6,24 +6,7 @@ thumbnail: "img/cc-edge.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Mike Thoma"
-  - "Steve Weyl"
-  - "Jim Chapman"
-  - "Susan Bimba"
-  - "Jack Tramiel"
-  - "John Sculley"
-  - "James Johnson"
-  - "Management Decision Systems"
-  - "Syntelligence"
-  - "Human Edge Software"
-  - "Strategic Simulations"
-  - "National Semiconductor"
-  - "Atari"
-  - "Apple"
-  - "Commodore"
-  - "Hewlett Packard"  
+  - "Computer-Aided-Decision-Making"
 ---
 
 In a bit of eerie foreshadowing, this episode of *The Computer Chronicles* from January 1984 opened with a discussion of a global pandemic. Not a real one, of course, but a computer simulation. Stewart Cheifet and Gary Kildall played with a game called [*Epidemic*](https://archive.org/details/a8b_Epidemic_1983_12_SSI_US), released by Strategic Simulations. Cheifet explained this was an example of how someone could use a computer to choose among alternatives, make a decision, and establish a complex strategy for solving a problem. In this case, the problem was a global pandemic caused by a virus brought from outer space by meteors. *Epidemic* provided the player with information about the spread of the virus and offered alternatives, such as developing a vaccine, for containing the pandemic. 
@@ -91,7 +74,9 @@ This edition of "Random Access," recorded in late January 1984, was the first on
 
 The most interesting thing to me about the two products demonstrated--Express EasyScan and Sales Edge--was the wide disparity in price. And I'm really underselling that point. As noted in the episode, Express EasyScan was mainframe software. And it carried a mainframe-level pricetag: $50,000. That was according to a February 1985 article in [*ComputerWorld*](https://books.google.com/books?id=iwX8vVdMAckC&pg=PA48&lpg=PA48&dq=%22express+easyscan%22&source=bl&ots=xbsoIRqD0P&sig=ACfU3U2rW4YlOH2vQB3g2pOJjYEyLQPe8Q&hl=en&sa=X&ved=2ahUKEwj7oc-IubjxAhVVEVkFHSAECDAQ6AEwA3oECAkQAw#v=onepage&q=%22express%20easyscan%22&f=false), which said the financial consolidation and reporting system module--i.e., the S&P database of company information--added another $120,000. 
 
-In contrast, *The Sales Edge* was desktop software that you probably could have bought in any computer store. An April 1985 report in the [*Chicago Tribune*](https://www.chicagotribune.com/news/ct-xpm-1985-04-12-8501210678-story.html), said *The Sales Edge* only cost $250. And it worked on the IBM PC and Apple computers, including the Apple IIe and the Macintosh. (The Apple IIe title screen is what you see in the thumbnail for this post.)
+In contrast, *The Sales Edge* was desktop software that you probably could have bought in any computer store. An April 1985 report in the [*Chicago Tribune*](https://www.chicagotribune.com/news/ct-xpm-1985-04-12-8501210678-story.html), said *The Sales Edge* only cost $250. And it worked on the IBM PC and Apple computers, including the Apple IIe and the Macintosh.
+
+![Title screen from the Apple //e version of 'The Sales Edge'.](/img/cc-edge.png)
 
 Unfortunately, the *Tribune* article also noted that Human Edge Software itself was "awash in red ink," having posted a $1 million loss in 1984, although company founder [James Johnson](https://www.linkedin.com/in/james-johnson-b6972b16/) said he expected to be profitable in 1985. Johnson himself was a clinical psychologist by training, and he previously "developed computerized diagnostic systems used by psychologists and psychiatrists," before starting Human Edge. *The Sales Edge* was Johnson's first commercial product, which was followed by *Management Edge*, *Communications Edge*, *Negotiation Edge*, and *Mind Prober*, according to the *Tribune*.
 

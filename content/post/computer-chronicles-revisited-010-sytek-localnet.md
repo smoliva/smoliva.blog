@@ -6,20 +6,7 @@ thumbnail: "img/cc-sytek.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Charlie Bass"
-  - "Michael Pliner"
-  - "Phil Edholm"
-  - "John Couch"
-  - "John Cavalier"
-  - "James Pelkey"
-  - "Sytek"
-  - "Ungermann-Bass"
-  - "IBM"
-  - "CompuServe"
-  - "Atari"
-  - "Zilog"
+  - "Local-Area-Networks"
 
 ---
 
@@ -56,6 +43,8 @@ Bass added that right now, much of the standards discussion was focused on very 
 ### A Step Towards Transparency
 
 For the final segment, Sytek engineer Phil Edholm demonstrated the company's LocalNet product line. The first demonstration involved a terminal connected to a small prototype network. As Pliner explained earlier, the LocalNet had its own procesor, memory, and software that enabled networking over a cable. Edholm noted this technology could be used to support "thousands of terminals" on a single cable.
+
+![Phil Edholm demonstrates the Sytek LocalNet attached to an IBM Personal Computer.](/img/cc-sytek.png)
 
 Edholm also demonstrated how the LocalNet could be connected directly to an IBM Personal Computer. He connected a demo PC to the LAN and download a file using a local terminal simulation program. Edholm also showed that the same networking cable could carry a video signal--in this case the live feed from the *Chronicles* taping--to a [Sony Watchman](https://en.wikipedia.org/wiki/Sony_Watchman).
 

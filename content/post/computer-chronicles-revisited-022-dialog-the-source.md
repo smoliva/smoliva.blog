@@ -6,21 +6,7 @@ thumbnail: "img/cc-source-infoworld.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Roger Summit"
-  - "Jay Fitzgerald"
-  - "Paul Schindler"
-  - "Jimmy Maher"
-  - "William Von Meister"
-  - "Jack Taub"
-  - "Susanne Bjørner"
-  - "Stephanie Ardito"
-  - "Isaac Asimov"
-  - "Reader's Digest Association"
-  - "CompuServe"
-  - "Source Telecomputing Corporation"
-  - "Dialog Information Systems"
+  - "Online-Databases"
 --- 
 
 The ostensible topic of this next *Computer Chronicles* episode is databases. But what we're really talking about here are early online information systems--that is, the precursor to the modern Internet. This was a time (1984) when just getting online was a chore. First, you needed a personal computer with a separate modem peripheral connected to a telephone line. Then you needed a subscription to an online service. The service itself charged you by the minute or hour for access--and that was on top of any long-distance phone charges you might incur if the service did not have a local number.
@@ -114,23 +100,6 @@ As for Summit, he remained with Dialog through its many ownership changes as a c
 + I recently learned that Paul Schindler [has a blog](https://psacot.typepad.com/)!
 + On top of all of Source Telecomputing Corporation's other problems, the company faced a trademark infringement lawsuit in 1986 from Source Services Corporation, an Illinois-based company that provided "career guidance and personnel placement services." The case survived summary judgment in a [published opinion](https://scholar.google.com/scholar_case?case=12533477862785406398), but I'm not sure about the final outcome. 
 + In case you're wondering why Summit used "laetrile and cyanide" for his research example, there was quite a bit of controversy in the 1970s and early 1980s over the use of laetrile--a bitter substance found in fruit pits--as a treatment for cancer. The U.S. government banned laetrile for medical use (over the objections of a number of state governments), because it produces cyanide when introduced into the body.
-+ The thumbnail image for this post is taken from a magazine advertisement for the Source from 1985. For the benefit of the visually impaired who require a screen reader, here is the text of the ad copy:
-
-> At last, a beacon to help you navigate the vast sea of personal computer technology. 
->
-> It's The Source. The online information service that can guide you to the best deals in the PC market. Shed light on your software problems. And signal the latest developments in micros.
->
-> With The Source, you can buy, sell, or swap hardware and software. Learn new applications from a Special Interest Group. See what's been written about the printer you're planning to buy. Or sens out an SOS to thousands of other PC users when you need advice.
->
-> What's more, The Source can enlighten you with current information on everything from business to travel, investments to world news.
->
-> Whatever kind of help you're after, you can find it faster on The Source. With a system of easy commands and menus. Plus a tutorial--free of online charges--that'll bring you up to speed in a snap.
->
-> To sign up today, call 1-800-336-3366. For more information, mail this coupon, or visit your nearest dealer.
->
-> Then, no matter how many waves of new technology rock your boat, you'll start right on course.
-
-+ Yes, I called the number. It's now a Medical Alert Center.
 
 ## Support Me on Ko-fi
 

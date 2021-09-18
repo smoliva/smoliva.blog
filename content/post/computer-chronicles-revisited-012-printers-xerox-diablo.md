@@ -6,16 +6,7 @@ thumbnail: "img/cc-baboon.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Herman Hollerith"
-  - "Steve Rea"
-  - "Paul Shapiro"
-  - "John Urbach"
-  - "Douglas N. Curry"
-  - "Tibor Fisli"
-  - "Xerox"
-  - "Diablo Data Systems"
+  - "Printers"
 ---
 
 Today's episode contains what Stewart Cheifet would later describe as one of the classic "near disasters" involving a product demonstration on *The Computer Chronicles*. The subject was the first Xerox Color Laser Printer, which was actually a prototype not yet available for sale when this *Chronicles* episode taped in October 1983. Cheifet recounted the event to [Tonya Hall](https://www.zdnet.com/meet-the-team/us/thetonyahallshow/) of ZDNet in a [November 2020 interview](https://www.youtube.com/watch?v=MJmMzHmKSzQ):
@@ -65,6 +56,8 @@ The focus then shifted to Stewart Cheifet and Xerox research engineer Douglas N.
 There was then a very awkward cut, which I'm guessing is where they had the issue with the smoke. Cheifet was now seen with another Xerox employee, Tibor Fisli, who supervised the final printing of the baboon image (which is seen in the thumbnail for this blog post). Fisli also briefly reviewed the laser printing process as previously described by Urbach. 
 
 After reviewing what Cheifet called the "impressive" final printout of the baboon, Fisli showed a duplicate of the actual laser printing assembly from the Xerox Color Laser Printer. Cheifet asked if it was possible to see the actual laser beam. Fisli, showing a complete disregard for the Ozone, said, "I will spray some Freon," which then made the path of the laser visible.
+
+![A full-color image of a baboon created by the Xerox color laser printer.](/img/cc-baboon.png)
 
 Back on the main set, Lechner asked Urbach about the future. Would we see more laser printers? Would they come down in price? And would it displace the other printer technologies discussed today? Urbach said the answer to all of those questions was "yes". There would be more laser printers and they would come down in price. Early laser printers were fast but expensive, as they cost hundreds of thousands of dollars. The price had now started to come down rapidly thanks to the use of junction diode lasers, which would replace the larger helium neon laser used in the earlier demonstration unit. 
 

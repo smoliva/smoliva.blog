@@ -6,26 +6,7 @@ thumbnail: "img/cc-thayer.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Wendy Woods"
-  - "Paul Schindler"
-  - "Geoffrey Tully"
-  - "Vladimir Langer"
-  - "Rick Dyer"
-  - "Jay Eagle"
-  - "Lynn Hershman"
-  - "Simone de Rochefort"
-  - "Jina Bacarr"
-  - "Dan Persons"
-  - "John Gersham"
-  - "Clint Basinger"
-  - "Ben Heck"
-  - "Kodak"
-  - "Pioneer"
-  - "RDI Video"
-  - "Sony"
-  - "IBM"
+  - "Laser-Disk-Storage"
 ---
 
 This episode of *Computer Chronicles* introduces some minor tweaking to the format established during the initial 1983-84 season. The first is the addition of Wendy Woods as a correspondent. Woods takes over narrating the customary B-roll feature following the introduction and also conducts remote interviews with guests related to the topic of the week. 
@@ -100,6 +81,8 @@ Dyer claimed this was the most advanced speech recognition that had ever been pu
 
 In *Thayer's Quest*, the player watches an animated story (similar to *Dragon's Lair*), and has to make several choices along the way for the main character. This should be as simple as speaking a number. But the Halcyon seemed to have difficulty understanding Cheifet. When he kept trying to speak option "1," the Halcyon asked him to repeat his answer several times, at one point admonishing the host, "SPEAK CONSISTENTLY, STEWART." Eventually, Cheifet gave up and selected option "2" instead, which seemed to be understood. Cheifet clarified that the player did not move linearly through the story--it branched depending on the decisions that were made.
 
+![Image from 'Thayer's Quest' of the player character encountering a wizard.](/img/cc-thayer.png)
+
 Kildall asked about what learning actually went on with the Halcyon. Dyer claimed the system learned about a user's strengths, weaknesses, and likes. He said that as you became involved with a program, the Halcyon would ask questions and learn about you and your personality. 
 
 I'll interject here to say that it's apparent to me from the video that Gary was not buying these claims, but he was too much of a gentlemen to directly call Dyer out on television. Still, Kildall persisted with some follow-up. He asked if the Halcyon contained any genuine artificial intelligence--i.e., did the machine actually extrapolate anything beyond just recognizing the user's voice. Dyer said it learned based on your answers. Kildall retorted that it recognized the words that you spoke. But when a new user came in the Halcyon would have to be trained again using a separate set of words. Dyer said that was correct. Cheifet pointed out that he had started playing *Thayer's Quest* before the segment began and the Halcyon remembered his history from the previous session. 
@@ -171,4 +154,3 @@ Dyer himself currently works as a real estate agent in California, having left t
 + The Sega game *Astron Belt* included footage from the movie *Star Trek II: The Wrath of Khan*. 
 + If this was the first time you've ever heard of IBM's TopView, I'm with you. Apparently it was an attempt by Big Blue to preempt the coming of Microsoft Windows. But it didn't fare much better than the PCjr. By 1987, IBM abandoned TopView in favor of its new OS/2 platform.
 + The Kodak-Verbatim marriage didn't last. Kodak sold Verbatim to Mitsubishi in 1990. Today the Verbatim brand is owned by Taiwan-based CMC Magnetics Corporation.
-+ The thumbnail for this post is an image from *Thayer's Quest*, as initially published in the *Electronic Games* article I cited above. The image shows what appears to be the main character confronting a wizard standing over a crystal ball.

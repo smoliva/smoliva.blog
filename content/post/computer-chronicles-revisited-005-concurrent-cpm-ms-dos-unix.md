@@ -5,16 +5,8 @@ date: 2021-05-24
 thumbnail: "img/cc-tog.png"
 categories:
   - "Computer Chronicles Revisited"
-tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Herbert Lechner"
-  - "Bruce Tognazzini"
-  - "Tony Fanning"
-  - "Jean Yates"
-  - "Apple"
-  - "Hewlett-Packard"
-  - "Digital Research"
+tags: 
+  - "Operating-Systems"
   
 ---
 
@@ -29,6 +21,8 @@ Lechner also appeared this week as Stewart Cheifet's co-host. Cheifet opened the
 Cheifet noted that operating systems were a tough subject to discuss. Every user dealt with an operating system, but most do not understand them. Lechner pointed out that operating systems are "most exciting when they don't work," and that's obviously not something you want to see as a user. Lechner then provided a brief overview of operating systems, explaining they manage the computer's resources and save the individual programmer "a lot of nitty-gritty effort" by providing platforms to make applications that can run on a number of machines with different configurations. And when it comes to larger machines, the operating systems have become "very sophisticated" and can manage resources in such a way as to help the computer achieve its full potential.
 
 The episode then veered into a very unusual segment--at least by *Chronicles* standards up this point--with a business-casual Stewart Cheifet appearing to walk inside pf the enlarged interior of an Apple IIe. Cheifet greeted another man, Apple engineer Bruce Tognazzini, who explained that he's just "checking things out" with the computer before the user turns it on. (In a testament to how silly this sketch was, Tognazzini then looks at his wrist to check his non-existent watch.) Cheifet asked Tognazzini to explain what they appear to be standing in. Tognazzini explained it was the parts that make up an Apple IIe: The microprocessor, which is the heart of the computer; read-only memory (ROM) chips that contain the operating system kernel and the BASIC programming language; and eight random access memory (RAM) chips that hold information retrieved from the disk drive. 
+
+![Stewart Cheifet and Bruce Tognazzini standing inside the enlarged interior of an Apple //e.](/img/cc-tog.png)
 
 Cheifet then asked Tognazzini to explain in greater detail what the operating system does. Tognazzini replied the operating system starts to run when the user turns the computer on. (Tognazzini said the Apple IIe only used 12 volts of power when active, so he and Cheifet were in little danger of electrocution while "standing inside" the unit.) After the power is turned on, Tognazzini said the processor checks itself out before turning things over to the ROM, which has a small program that looks for a disk controller. The disk controller, in turn, has its own ROM that takes control and brings in the operating system from the disk inserted in the drive through a white cable. The operating system then takes up about one-fifth to one-fourth of the available RAM in the Apple IIe, including the BASIC programming language. After about 15 to 30 seconds, the screen displays a message informing the user they can get to work. The segment itself then ended with a pullout to the Apple IIe monitor, which displayed, "DOS ERROR – WARNING! – TWO MEN INSIDE."
 

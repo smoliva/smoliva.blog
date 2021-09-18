@@ -6,22 +6,7 @@ thumbnail: "img/cc-cray.jpg"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "George Michael"
-  - "John Repp"
-  - "Kashiwagi Hiroshi"
-  - "Yuko Mizuno"
-  - "Aiso Hideo"
-  - "Grace Hopper"
-  - "Donald M. Hall"
-  - "Nancy Vogt"
-  - "Herbert Lechner"
-  - "Lawrence Livermore National Laboratory"
-  - "Control Data Corporation"
-  - "NEC"
-  - "Hitachi"
-  - "Cray"
+  - "Supercomputers"
 ---
 
 You often hear people describe modern smartphones as a "supercomputer in your pocket." There's definitely some truth to that, especially when you compare today's phones with the supercomputers of 40 years ago. In the mid-1980s, supercomputer manufacturers were still struggling with concepts like parallel processing, i.e., breaking down a program into smaller tasks that could run simultaneously on multiple microprocessors. Today, in contrast, multi-core, multi-threaded CPU cores are the norm on just about every personal computing device.
@@ -121,7 +106,6 @@ In addition to his work at the laboratory, Michael also co-founded the [Internat
 ## Notes from the Random Access File
 
 + This episode is available at the [Internet Archive](https://archive.org/details/CC126_supercomputers). I would place the date towards the end of 1983, based largely on Gary Kildall referring to "Captain Grace Hopper." President Reagan promoted Hopper to Commodore--or Rear Admiral (lower half) in modern parlance--in December 1983 after [Congress passed a joint resolution](https://www.congress.gov/bill/98th-congress/house-joint-resolution/341) requesting the appointment. 
-+ The thumbnail for this post contains a picture of the Cray X-MP, which was mentioned by Stewart Cheifet during the B-roll and at the time was the primary supercomputer used at LLNL.
 + LLNL is not named after Lawrence Livermore. The lab is based in Livermore, California. The "Lawrence" was added in honor of Ernest Lawrence, the co-founder of the facility, which was originally called the University of California Radiation Laboratory at Livermore when it started in 1952.
 + LLNL is still very much active today. It is part of the U.S. Department of Energy and has an [annual operating budget](https://www.llnl.gov/sites/www/files/2021-05/LLNL%20at%20a%20Glance%20FACT%20SHEET.pdf) of around $2.33 billion.
 + The Josephson junction is named for Brian Josephson, who [shared the 1973 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/1973/summary/) with two others for his work leading to its creation.

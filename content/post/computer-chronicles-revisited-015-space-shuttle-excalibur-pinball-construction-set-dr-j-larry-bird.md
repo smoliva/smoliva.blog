@@ -6,36 +6,7 @@ thumbnail: "img/cc-shuttle.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Paul Schindler"
-  - "Jessica Stevens"
-  - "Chris Crawford"
-  - "Trip Hawkins"
-  - "Bill Budge"
-  - "Eric Hammond"
-  - "Michael Abbott"
-  - "Activision"
-  - "Matthew Alexander"
-  - "Steve Jobs"
-  - "John Sculley"
-  - "Dan Persons"
-  - "David P. Townsend"
-  - "David Duberman"
-  - "Elaine Holden"
-  - "Patrick Sauer"
-  - "Atari"
-  - "Electronic Arts"
-  - "Hewlett-Packard"
-  - "IBM"
-  - "Hewlett-Packard"
-  - "Intel"
-  - "Applied Computer Technologies"
-  - "Victor Technologies"
-  - "Tandon Corporation"
-  - "Telegen Corporation"
-  - "Apple"
-  - "3DO Corporation"
+  - "Computer-Games"
 ---
 
 Even if you're only a casual gamer, there are probably a few video game designers whose names you're familiar with, such as Sid Meier, Todd Howard, and Shigeru Miyamoto. From the early days of computer gaming, there was a concerted effort to promote certain "superstar" designers to help personalize and sell games to the public. This next episode of *The Computer Chronicles* featured three such designers from the early 1980s, as well as an executive whose name would become synonymous with computer and video game production in the decades that followed.
@@ -57,6 +28,8 @@ Kildall asked what elements made a game design interesting. Crawford said that d
 Cheifet observed that Crawford sounded more like a writer than a computer programmer. He asked Stevens if that's how she saw herself as well. Stevens agreed with that characterization. She said they were writing a type of novel, creating a vicarious universe within the computer program. They had to model everything they wanted and put every small detail into the game. Stevens noted that for her game, [*Space Shuttle: A Journey into Space*](https://www.mobygames.com/game/space-shuttle-a-journey-into-space), she put in a year-and-a-half of research to understand the subject before distilling the important aspects out and putting it onto the cartridge.
 
 Stevens then provided a demonstration of *Space Shuttle* on an Atari 2600. The game opened with an automated demo of a space shuttle flight, which was based on the real [second mission of the Space Shuttle *Columbia*](https://www.nasa.gov/mission_pages/shuttle/shuttlemissions/archives/sts-2.html) in November 1981. The goal was to launch the space shuttle, connect to an orbiting space station (based on [*Skylab*](https://www.nasa.gov/mission_pages/skylab)), and return to Earth for a landing at [Edwards Air Force Base](https://www.edwards.af.mil/) in California. Stevens also pointed to the various real-life details in the game, such as the "yellow flash" the astronauts see after jettisoning the shuttle's solid-rocket boosters.
+
+![A screenshot from Jessica Stevens' 'Space Shuttle' for the Atari 2600.](/img/cc-shuttle.png)
 
 Cheifet said it was incredible Stevens could do all this on an Atari 2600, which was not even a personal computer. How did she manage to squeeze the entire game to fit? Stevens said she had to model the universe and then fit everything piece-by-piece. She started with the basic mission and then added features and functions along the way. And in fact, she was not happy with her initial results--she still had a list of 146 separate items she wanted to include. So she spent three additional months adding them. The goal was to be as accurate and complete as possible. Kildall asked how big the final game was in terms of memory. Stevens said the game fit on an 8 kilobyte cartridge and took 13 months of programming.
 

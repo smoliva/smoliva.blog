@@ -6,15 +6,7 @@ thumbnail: "img/hp-150.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Cyril Yansouni"
-  - "Herbert Lechner"
-  - "Gordon Bell"
-  - "Jim Warren"
-  - "Leo Laporte"
-  - "Boston Computer Museum"
-  - "Hewlett-Packard"
+  - "Computer-History"
 ---
 
 *The Computer Chronicles* debuted as a national television program in the United States in the fall of 1983. The series was the brainchild of [Stewart Cheifet](http://cheifet.com/), then the general manager at KCSM-TV, a public television station based in San Mateo, California, located in the heart of Silicon Valley. Cheifet originally launched *Chronicles* as a live, local program in 1981, which was hosted by [Jim Warren](https://en.wikipedia.org/wiki/Jim_Warren_(computer_specialist)), the co-founder of the [West Coast Computer Faire](https://www.atariarchives.org/bcc3/showpage.php?page=98), an annual computer convention based in San Francisco. 
@@ -56,6 +48,8 @@ The segment, and the show, ended with a brief colloquy between over the likely "
 ## The Press Reviews of the HP-150
 
 Hewlett-Packard clearly saw the HP-150 as their ticket to success in the still-developing personal computer market. An [October 1983 cover spread in *Byte* magazine](https://archive.org/details/byte-magazine-1983-10) went into much greater detail about the computer--which had the internal code name "Magical"--and its touchscreen capabilities. HP actually trademarked the technology under the name HPTouch. It was actually an optical touchscreen that relied on infrared beams to detect finger placement. There were 24 holes drilled into each side of the screen's bezel, and 40 holes drilled into the top and bottom, which created a grid for the infrared beams. 
+
+![Picture of the HP-150 computer.](/img/hp-150.png)
 
 The HP-150 was also an "all-in-one" PC like the Macintosh, with the computer and monitor functioning as a single integrated unit. Unlike the Macintosh, however, the disk drives had to be attached and connected separately. But as Yansouni pointed out during the on-air demo, it was possible to attach an integrated thermal printer into the base unit. 
 

@@ -6,12 +6,7 @@ thumbnail: "img/cc-simulator.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Frank Lewandowski"
-  - "Steve Harrison"
-  - "Bruce Artwick"
-  
+  - "Simulator-Software"
 ---
 
 Normally, *The Computer Chronicles* demos consumer software and hardware. Stewart Cheifet often described his role as doing the legwork on behalf of the viewer so they knew what products to buy. This particular episode, however, goes in a somewhat different direction. The subject is simulator software, but aside from the opening host segment, the episode is largely devoted to proprietary software used in non-consumer applications. 
@@ -19,6 +14,8 @@ Normally, *The Computer Chronicles* demos consumer software and hardware. Stewar
 ## Flight Simulators -- Computer Game vs. Training Tool
 
 Cheifet and Gary Kildall opened the episode by playing [Microsoft Flight Simulator 1.0](https://www.mobygames.com/game/pc-booter/microsoft-flight-simulator-v10) on an IBM Personal Computer. Cheifet noted this was a good example of how you could use a computer to simulate real-world situations. Foreshadowing one of the episode's guests, Cheifet added that simulation software could also be used in architecture and urban design. Cheifet asked Kildall that given everything a computer does is essentially a simulation, what do we mean by "computer simulations." Kildall replied that it's about generating scenes or a situation that someone wants to experience, which requires graphics and a lot of computing power. But it's ultimately less expensive to do than the real thing. For example, it's cheaper to run a simulation of a 747 landing than to land an actual plane.
+
+![Stewart Cheifet and Gary Kildall with an IBM PC running 'Microsoft Flight Simulator'.](/img/cc-simulator.png)
 
 Cheifet then narrated a short feature on the use of flight simulators by the U.S. military to train pilots in air-to-ground combat. While this might resemble a computer game, Cheifet said these simulators included "random factors" to help better simulate real-life conditions. He compared the progress of computer simulation to film animation, which managed to achieve a "remarkable level of detail" during the 1940s and 1950s. Cheifet then introduced a computer architectural model where buildings "can be viewed at almost every perspective," eliminating the need for hand-drawn blueprints.
 

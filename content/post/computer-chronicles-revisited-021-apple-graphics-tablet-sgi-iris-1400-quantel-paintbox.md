@@ -6,23 +6,7 @@ thumbnail: "img/cc-koala.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Donald McKinney"
-  - "Michael Arent"
-  - "Ann Chase"
-  - "Kevin Prince"
-  - "Ron MacNeill"
-  - "David Murray"
-  - "Cal Jeffrey"
-  - "Pacific Data Images"
-  - "Koala Technologies"
-  - "Apple"
-  - "Quantel"
-  - "Silicon Graphics"
-  - "SAP Labs"
-  - "Tele-TV"
-  - "Aaron Marcus + Associates"
+  - "Computer-Graphics"
 ---
 
 Personal computers of the early 1980s were often limited to just a few colors for on-screen graphics. The Apple IIe, for example, could display up to 16 colors at one time depending on the screen resolution. And of course, no home computer of this era could produce genuine 3D graphics. That capability was limited to very high-end machines designed for industrial or commercial use.
@@ -32,6 +16,8 @@ Personal computers of the early 1980s were often limited to just a few colors fo
 Which brings us to our next *Computer Chronicles* episode from 1984. The subject is computer graphics. And while Stewart Cheifet does open the program with a demonstration of a graphics peripheral designed for personal computers, most of the program is devoted to technology that was beyond the financial or technical capacity of the home user. 
 
 Cheifet, joined by returning guest host Herbert Lechner, showed off the [KoalaPad](https://en.wikipedia.org/wiki/KoalaPad), a graphics tablet designed for most popular microcomputers of the day. In this case, it was hooked up to an Apple IIe. Cheifet demonstrated how you could simply draw on the screen using the tablet. He said that computer graphics were often associated with drawing or video games, but they were also used in more serious applications. Lechner concurred, noting that computer "fine art" was now hanging in galleries right alongside traditional art. And in the commercial area, Lechner said computer graphics systems aided animators and played an important role in producing television advertising.
+
+![User interface for 'Koala Micro Illustrator' for the KoalaPad.](/img/cc-koala.png)
 
 The B-roll for this episode included footage of [Ron MacNeill](https://web.media.mit.edu/~ronmac/ronmac-CV.html), a computer artist with [MIT's Visible Language Workshop](http://museum.mit.edu/150/115). Cheifet explained how MacNeill used a digitizing tablet to choose from a palette of colors and pre-programmed images to create a collage that existed only in the memory of a computer. MacNeill started with materials from different sources, such as photographs and 3D objects, to make a composite that could then be manipulated to change their colors, sizes, and geometric aspects. The final hardcopy was then printed using a plotter to create a wall-size mural that was 14 feet high and 48 feet long.
 

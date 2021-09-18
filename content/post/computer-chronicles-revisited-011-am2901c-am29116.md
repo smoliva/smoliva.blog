@@ -6,11 +6,7 @@ thumbnail: "img/cc-amd.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "J. Philip Dowling"
-  - "Clive Ghest"
-  - "AMD"
+  - "Microprocessors"
 ---
 
 Computer architecture is usually described in terms of *bits*. For instance, we often speak of early personal computers from the late 1970s and early 1980s as *8-bit machines*. In simple terms, this means that the CPUs in these computers could only address 8 bits of data at a time, with each *bit* representing a single binary digit (0 or 1). But even when the first episodes of *The Computer Chronicles* started to air in late 1983, there were already 16-bit processors on the market, such as the [Intel 8086](https://en.wikipedia.org/wiki/Intel_8086), and 32-bit machines had started to become a reality. 
@@ -49,7 +45,9 @@ Cheifet ended this segment by asking if silicon would continue to be the princip
 
 In the final segment, Phil Dowling provided examples of two of AMDs microchips--the Am2901C and the Am29116. The Am2901 chip was first produced in 1975. It was a 4-bit-slice arithmetic-logic unit (ALU). The Am29116, in contrast, was a 16-bit processor with roughly 5 times the component complexity of the Am2901. 
 
-In the thumbnail image for this blog post, you will see Dowling showing off a blown-up photograph of the Am2901C. He pointed out all of the basic components of the chip, including its register file, instruction decoders, memory, and input/output pins. Essentially, the chip took 4 bits of data out of the register file and pumped it through an ALU, which was controlled by the instruction decoder. Cheifet asked for clarification on what the ALU did. Dowling said that was the part of the chip that did the actual work.
+![Phil Dowling shows a blown-up image of the AMD Am29116 microprocessor to Stewart Cheifet and Herbert Lechner.](/img/cc-amd.png)
+
+Dowling pointed out all of the basic components of the chip, including its register file, instruction decoders, memory, and input/output pins. Essentially, the chip took 4 bits of data out of the register file and pumped it through an ALU, which was controlled by the instruction decoder. Cheifet asked for clarification on what the ALU did. Dowling said that was the part of the chip that did the actual work.
 
 The Am2901C was actually the fourth generation of this particular design. Cheifet asked Dowling to explain how the chip was improved each generation. Dowling said first, changes in the photolithography technology meant the lines on the circuit design could get narrower. This made the final design smaller and more economical to build. There were also changes to the underlying bipolar technology, which doubled the operational speed. This meant the fourth-generation Am2901C had seen a 4x performance improvement over the first-generation design.
 

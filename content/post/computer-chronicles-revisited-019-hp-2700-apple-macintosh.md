@@ -6,38 +6,12 @@ thumbnail: "img/cc-control-panel.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Paul Schindler"
-  - "Wanda Smith"
-  - "Karen Kessel"
-  - "Susan Kare"
-  - "Jerry Manock"
-  - "Gregg Williams"
-  - "Steve Jobs"
-  - "Stephen Hackett"
-  - "Cait Etherington"
-  - "Steve Wozniak"
-  - "David Kindy"
-  - "Paula Routly"
-  - "Richard Koffler"
-  - "Ron Gordon"
-  - "Hewlett-Packard"
-  - "Apple"
-  - "The Koffler Group"
-  - "TeleLearning Systems"
-  - "Texas Instruments"
-  - "Kaypro"
-  - "IBM"
-  - "Electronic Arts"
-  - "NeXT"
-  - "Pinterest"
-  - "SRI International"
+  - "Computer-Ergonomics"
 ---
 
 When Apple released the Macintosh--later known as the Macintosh 128K--in January 1984, its main selling point was the graphical user interface (GUI). Although the original Macintosh operating system's GUI was largely based on what Apple deployed on the [Lisa](https://www.smoliva.blog/post/computer-chronicles-revisited-002-apple-lisa-vs-visi-on/) a year earlier, the company believed the new machine's lower price point would make the interface more accessible to a larger audience. 
 
-Of course, the Macintosh was not exactly cheap, even by 1984 personal computer standards. As Gregg Williams noted in the [May 1984 issue of *Byte* magazine](https://archive.org/details/byte-magazine-1984-05), a "usable" Macintosh system, including a second disk drive and basic office software, would cost $3,879. This was nearly $1,000 more than the price Apple quoted for the same setup a few months earlier, Williams noted, and it undercut Steve Jobs' marketing claims that the Macintosh would be "something really inexpensive so that everyone can afford it."
+Of course, the Macintosh was not exactly cheap, even by 1984 personal computer standards. As Gregg Williams noted in the [May 1984 issue of *Byte* magazine](https://archive.org/details/byte-magazine-1984-05), a "usable" Macintosh system, including a second disk drive and basic office software, would cost $3,879. This was nearly $1,000 more than the price Apple quoted for the same setup a few months earlier, Williams noted, and it undercut Steve Jobs' marketing claims that the Macintosh would be "something really inexpensive so that everyone can afford it"
 
 Williams also pointed out that many "traditional computer users" were resistant to the Macintosh interface design, complaining that the "mouse, the windows, and the desktop metaphor [were] silly, useless frills," while others were "outraged at the lack of color or graphics." The 128 kilobytes of memory was also far too small for many users' needs, which prompted Apple to release a 512 KB Macintosh just a few months later.
 
@@ -85,7 +59,9 @@ Lechner then asked Kare about her work as an icon designer. What did she learn f
 
 Kare then provided a demonstration of the Macintosh itself. She made note of the extensive use of icons, such as the "disk with a question mark" at startup that prompted the user to enter a diskette. There was also the "content Mac" when things were operating normally. The Macintosh "desktop" allowed users to highlight specific icons with the mouse, causing the icon to invert. Kare said the "hidden menus" activated from the top bar on the screen operated like "window shades." Graphical windows displayed the contents of individual diskettes and storage folders. All of these design choices were, as Kare put it, "analogous to life."
 
-Cheifet asked for a demonstration of the Macintosh Control Panel. (You'll see this image recreated in the thumbnail for this post.) Kare described this panel as a "dashboard" that let the user fine-tune the system in a number of ways to suit their comfort level or personal preferences. The computer itself would work fine no matter the settings. For example, there was a volume control slider on the left side of the Control Panel that altered the speaker sound. Kare said if a person was at home by themselves and listening to the stereo, they could raise the volume to ensure they always heard alert beeps from the system. Conversely, if the user was working on a Macintosh in the library, they could set the machine to make no noise and just flash to get their attention. Other settings adjusted things like the keyboard repeat rate and the time between registering double-clicks with the mouse.
+Cheifet asked for a demonstration of the Macintosh Control Panel. Kare described this panel as a "dashboard" that let the user fine-tune the system in a number of ways to suit their comfort level or personal preferences. The computer itself would work fine no matter the settings. For example, there was a volume control slider on the left side of the Control Panel that altered the speaker sound. Kare said if a person was at home by themselves and listening to the stereo, they could raise the volume to ensure they always heard alert beeps from the system. Conversely, if the user was working on a Macintosh in the library, they could set the machine to make no noise and just flash to get their attention. Other settings adjusted things like the keyboard repeat rate and the time between registering double-clicks with the mouse.
+
+![The Control Panel from the Macintosh System 1.0.](/img/cc-control-panel.png)
 
 Kare also demonstrated a few of the Macintosh's built-in applications, including Notepad and Scrapbook. Notepad allowed the user to write quick notes and "flip" between up to 8 separate pages. Scrapbook--see the image below--could store up to 256 pictures or messages in memory, which could then be pasted into other documents. Kare also briefly demonstrated [MacWrite 1.0](https://winworldpc.com/product/macwrite/10), a WYSYWIG word processor, that included features like a ruler to set margins and buttons to make formatting changes. Cheifet noted the user could also pull pictures from Scrapbook and paste them into a MacWrite document.
 

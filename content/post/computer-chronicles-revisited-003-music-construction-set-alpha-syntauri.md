@@ -6,15 +6,7 @@ thumbnail: "img/cc-mcs.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Will Harvey"
-  - "John Chowning"
-  - "Ellen Lapham"
-  - "Frank Cifaldi"
-  - "Mary Eisenhart"
-  - "Stanford University"
-  - "Electronic Arts"
+  - "Computer-Music"
   
 ---
 
@@ -35,6 +27,8 @@ Cheifet pointed out that some people were critical of the combination of compute
 Cheifet followed up by asking if that meant computers actually helped with the "composition process." Chowning said yes, the programming language was an "enormously rich resource" that enhanced the composition process.
 
 With that, Cheifet turned to Harvey, who developed [*Music Construction Set*](https://archive.org/details/a2_Music_Construction_Set_1983_Electronic_Arts_cr_Midwest_Pirates_Guild), a program then sold for about $40 by Electronic Arts. Harvey explained that with his program, a person who didn't know anything about music--and may, in fact, be intimidated by learning the subject--could still create their own music using nothing more than a joystick. Cheifet then asked Harvey to demonstrate *Music Construction Set* using an Apple II. Essentially, the user moved a hand-shaped cursor to pick up notes and set them down on a musical staff. After setting up the notes, the user could then select various actions, such as playing the assembled composition. Harvey played a demonstration song that came bundled with the software. In response to a follow-up question, Harvey added that the notes scrolled by as they played. The composition screen was basically a digital representation of sheet music--only instead of using a pencil to erase notes, with his program you could simply move the notes around on the screen.
+
+![A screenhot from Will Harvey's 'Music Construction Set,' showing a sample composition and the program's user interface.](/img/cc-mcs.png)
 
 Kildall observed that software like *Music Construction Set* made learning about music more fun. Harvey noted that aside from learning how to use a joystick, which wasn't that difficult, it was easy for users to simply play around with compositions. For example, they could make changes to works by Mozart or Bach just to see what they sounded like. Kildall asked if people actually liked to learn about music this way. Harvey said people were "overly cautions when first using a computer program." But after about 5 or 10 minutes, they realized it was fun and they wouldn't hurt anything.
 

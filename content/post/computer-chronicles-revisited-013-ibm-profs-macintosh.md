@@ -6,19 +6,7 @@ thumbnail: "img/cc-jobs.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Chuck Kinch"
-  - "Stewart Reges"
-  - "Bill Blackmer"
-  - "Dan Carroll"
-  - "Peter Nichols"
-  - "IBM"
-  - "Levi Strauss"
-  - "Steve Jobs"
-  - "Computerland"
-  - "Stanford University"
-  - "Apple"
+  - "Business-Applications"
 ---
 
 The episode I'm covering today taped on January 18, 1984, which was four days before [Super Bowl XVIII](https://www.pro-football-reference.com/boxscores/198401220rai.htm). That game would go down in computing history for the famous [Apple "1984" commercial](https://www.youtube.com/watch?v=VtvjbmoDx-I) that announced the launch of the original [Macintosh](https://apple-history.com/128k) (later known as the Macintosh 128K). As this *Chronicles* episode aired the week after the Super Bowl, Stewart Cheifet devoted a good portion of the post-show "Random Access" segment to the new machine and what it might mean for Apple for the rest of 1984.
@@ -84,6 +72,7 @@ Stewart Cheifet presented this edition of "Random Access," which was taped somet
 + Cheifet opened: "Macintosh--what else can one say?" People were either talking about the Macintosh itself or the Super Bowl commercial. Early reports from computer dealers indicated there was "tremendous consumer response" to Apple's new computer. 
 + At the same time, dealers were also concerned by Apple's plan to sell the Macintosh to universities at a 60 percent discount, as students might buy the machines and re-sell them for a profit, still undercutting the retail price by as much as half.
 + Cheifet played a clip from Apple Chairman Steve Jobs' Macintosh press conference. Jobs said that while the Lisa had pioneered amazing software technology, with the Macintosh Apple had taken that software and pulled it down to a price range that was affordable for individuals, not just businesses. 
+![Steve Jobs addresses the media in January 1984.](/img/cc-jobs.png)
 + Cheifet said that the Macintosh was "basically a mini-Lisa" with a 32-bit microprocessor, 1 built-in micro-floppy drive, a mouse, and a 9-inch black-and-white monitor. The retail price was $2,500. And while most reviewers had given the Macintosh "excellent marks," some critics said the lack of a color display would limit the computer's appeal.
 + The accounting firm Peat Marwick announced that it would [purchase 2,500 Macintoshes](https://web.stanford.edu/dept/SUL/sites/mac/primary/docs/pr1.html), to be carried by its auditors for on-site audits. Cheifet noted this would make Peat Marwick the first accounting firms to send its auditors into the field with computers. 
 + The success of the Macintosh was critical to Apple's future, especially given the company's poor first-quarter earnings report, which showed a 75 percent decrease in net profit, which was attributed to slow Lisa sales, price cuts for the Apple IIe, and heavy research and development costs related to the Macintosh.

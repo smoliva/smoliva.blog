@@ -6,32 +6,7 @@ thumbnail: "img/cc-nuclear.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Susan Bimba"
-  - "Paul Schindler"
-  - "Edward Feigenbaum"
-  - "Ada Lovelace"
-  - "Alan Turing"
-  - "Charles Babbage"
-  - "Jeffrey Perrone"
-  - "Nils Nilsson"
-  - "Hillary Don"
-  - "Donald Michie"
-  - "Tom Kehler"
-  - "John McCarthy"
-  - "Ronald Reagan"
-  - "Ken Uston"
-  - "Sophia Kunthara"
-  - "Scott Mace"
-  - "Lee Carvallo"
-  - "SRI International"
-  - "IntelliGenetics"
-  - "Digital Equipment Corporation"
-  - "National Semiconductor"
-  - "IBM"
-  - "Atari"
-  - "Tricentis"
+  - "Artificial-Intelligence"
 ---
 
 In [Part 14](https://www.smoliva.blog/post/computer-chronicles-revisited-014-express-easyscan-sales-edge/) of this series, the *Computer Chronicles* first discussed the subject of "expert systems." This referred to computer knowledge bases that purported to replicate a human's expertise in a particular field. This next *Chronicles* episode revisits the idea of expert systems as part of a broader discussion of artificial intelligence.
@@ -160,7 +135,7 @@ As for IntelliCorp, it sputtered along for a couple more decades after Kehler's 
 + This episode is available at the [Internet Archive](https://archive.org/details/CC1024_artificial_intelligence) and has a recording date of March 16, 1984.
 + Edward Feigenbaum will appear in a later *Computer Chronicles* episode, and I'll discuss him in more detail at that time.
 + Stewart Cheifet's demonstration of a small chess computer may have been another nod to the legacy of John McCarthy, who according to Nils Nilsson helped to develop one of the first chess-playing computer programs in the early 1960s.
-+ As the thumbnail image for this post illustrates, the use of a computer AI to make decisions regarding a nuclear reactor reminded me of a similar scenario involving Homer J. Simpson some years later. 
++ The use of a computer AI to make decisions regarding a nuclear reactor reminded me of a similar scenario involving Homer J. Simpson some years later. 
 + Speaking of *The Simpsons*, I wonder if the people who made *Ken Uston's Professional Blackjack* were also behind [*Lee Carvallo's Putting Challenge*](https://aaron-demeter.itch.io/lee-carvallos-putting-challenge).
 + *Ken Uston's Professional Blackjack* was not just a simple blackjack game. As Paul Schindler mentioned, it taught you how to count cards, which will get you kicked out of a real casino. (Schindler noted [Uston himself](https://en.wikipedia.org/wiki/Ken_Uston) had recently been ejected from 5 casinos.) What fascinated me was that the game's settings also adjusted for different types of casino rules. I never knew that blackjack was played differently on the Las Vegas Strip differed than in downtown Las Vegas casinos.
 + So who the heck was Ken Uston? Schindler described him as a former stockbroker turned professional gambler. An obituary in [*Blackjack Forum*](http://www.blackjackforumonline.com/content/ustoobit.htm) said Uston, who was found dead in a Paris apartment in September 1987, had also  been "working as a computer consultant for the Kuwaiti government." 

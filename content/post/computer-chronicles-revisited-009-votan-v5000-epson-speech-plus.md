@@ -6,16 +6,7 @@ thumbnail: "img/cc-voice.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Herbert Lechner"
-  - "Carl Berney"
-  - "Rodney Stephens"
-  - "David Murray"
-  - "Stephen Hawking"
-  - "John Medeiros"
-  - "Speech Plus"
-  - "VOTAN"
-  
+  - "Speech-Synthesis"
 ---
 
 David Murray, who goes by [The 8-Bit Guy](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww) on YouTube, had a great video a couple of years back on ["How Speech Synthesizers Work."](https://www.youtube.com/watch?v=XsMRxNSDccc&t=375s) He explained that early devices like the [Texas Instruments "Speak & Spell"](http://www.99er.net/spkspell.html) were not true speech synthesizers, as they relied on a limited vocabulary of pre-recorded words. But even in the mid-1980s there were speech synthesizers that could build words out of basic sounds.
@@ -25,6 +16,8 @@ Today's episode of *The Computer Chronicles* from early 1984 also examined the s
 Cheifet was joined in the co-host's chair this week by Herbert Lechner of SRI International. With respect to the Minolta, Cheifet noted the talking feature wasn't strictly necessary; a blinking light worked fine for most cameras. So he asked Lechner if the use of speech in such devices was a "marketing gimmick" or if there were useful applications for speech in computers. Lechner replied that he found himself not paying attention to the warning lights in his car, yet he paid attention when it talked to him. And there were a number of voice terminals in use today that relied on telephone technology.
 
 Cheifet then transitioned into our B-roll feature for the week, which provided an overview of the research into not just speech synthesis, but also digital speech and speech recognition. There was footage of a person operating an electron microscope. This device required total darkness to operate due to the machine's sensitivity to light. In addition, the operator's eyes and hands were kept continually busy simply dealing with the microscope. So the attached computer was trained to "respond to verbal commands encoded previously by the operator in his own voice." 
+
+![A man uses a microphone to interface with an electron microscope attached to a personal computer.](/img/cc-voice.png)
 
 Cheifet said machines that could understand and carry out such verbal commands had been in development since the late 1960s. And even in the mid-1980s, the applications of such technologies were still limited. He said the "breakthrough" would come with the perfection of more recently developed speech systems that recognized context-sensitive rules of language and could mimic the more flexible patterns of actual human speech.
 

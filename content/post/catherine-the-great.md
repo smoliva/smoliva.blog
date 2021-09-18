@@ -6,15 +6,7 @@ thumbnail: "img/catherine.jpg"
 categories:
   - "Book Reports"
 tags:
-  - "Russia"
-  - "Catherine the Great"
-  - "Robert K. Massie"
-  - "Poland"
-  - "serfdom"
-  - "filibuster"
-  - "American Revolution"
-  - "pandemic"
-  - "Potmkin village"
+  - "Catherine-the-Great"
   
 ---
 

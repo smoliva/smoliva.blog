@@ -6,13 +6,7 @@ thumbnail: "img/cc-hackers.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Stewart Cheifet"
-  - "Gary Kildall"
-  - "Donn B. Parker"
-  - "James L. Holmes"
-  - "SRI International"
-  - "Tri-Data"
-  - "Roger Ebert"
+  - "Computer-Security"
   
 ---
 
