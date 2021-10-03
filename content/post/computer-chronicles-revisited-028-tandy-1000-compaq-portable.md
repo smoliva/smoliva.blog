@@ -1,5 +1,5 @@
 ---
-title: Computer Chronicles Revisited, Part 28 -- The Tandy 1000 and Compaq Portable
+title: Computer Chronicles Revisited, Part 28 — The Tandy 1000 and Compaq Portable
 description: The Computer Chronicles discusses IBM compatible computers.
 date: 2021-09-26
 categories:
@@ -102,7 +102,7 @@ Stewart Cheifet presented this week's "Random Access," which dates the episode i
 + UniForum was the first event held at the new [Dallas Informart](https://www.infomartoffice.com/), a $100 million, 1.5 million square foot building designed to serve as a "permanent computer expo."
 + [MicroPro sued American Brands, Inc.](https://www.nytimes.com/1985/01/18/business/micropro-suit-on-software.html), alleging copyright infringement of a number of programs, notably the popular word processor *WordStar*.
 + The U.S. Department of Commerce issued a report that said the United States accounted for 70 percent of the world's $18 billion software market. But with "proper copyright and trade policies," the U.S. share could grow to 75 percent over the next two years, when the market was expected to be worth upwards of $55 billion.
-+ Paul Schindler offered his weekly software review, this time for TuneSmith/PC, which converted simple BASIC programs into playable music. Schindler was impressed with TuneSmith, particularly given the IBM Personal Computer was never meant to make music, as it only had a one-voice beeper speaker.
++ Paul Schindler offered his weekly software review, this time for *TuneSmith/PC*, which converted simple BASIC programs into playable music. Schindler was impressed with *TuneSmith*, particularly given the IBM Personal Computer was never meant to make music, as it only had a one-voice beeper speaker.
 ![PC Magazine advertisement for TuneSmith/PC](/img/cc-tunesmith.png)
 + Cheifet noted that bubble memory--a favorite technology of Gary Kildall from last season--may be making a comeback. Researchers at Carnegie-Mellon University in Pennsylvania said they had [developed a new form of bubble memory](https://www.nytimes.com/1985/01/17/business/technology-aiding-bubble-data-storage.html) that was 16 times more efficient than prior efforts.
 + Cheifet said that police in New Jersey were experimenting with a new computer device that could purportedly perform an "instant brain scan" to help determine if a person was under the influence of drugs. The police said if successful, the device could be used as a possible supplement to traditional Brethalyzer tests in DWI cases.
