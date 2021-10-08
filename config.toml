@@ -31,10 +31,6 @@ paginate = 10
     name = "Github"
     url = "https://github.com/smoliva"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/ChronRevisited"
-  [[params.social]]
     icon = "rss"
     name = "RSS"
     url = "https://smoliva.blog/index.xml"

@@ -112,11 +112,9 @@ This episode's "Random Access" dates the broadcast at sometime in March 1985.
 
 ## Halcyon's Failure to Launch
 
-Neither of the two computers featured in this episode--the Pioneer PX-7 or the Halcyon--was ever sold in the United States. The PX-7 was only released in Japan and Europe. The LaserDisc player--a [Pioneer LD-700](https://www.msx.org/wiki/Pioneer_LD-700) model--was a separate peripheral that actually was sold in the United States starting in 1983. 
+Neither of the two computers featured in this episode--the Pioneer PX-7 or the Halcyon--were ever sold in the United States. The PX-7 was only released in Japan and Europe. The LaserDisc player--a [Pioneer LD-700](https://www.msx.org/wiki/Pioneer_LD-700) model--was a separate peripheral that actually was sold in the United States starting in 1983. 
 
-As for the Halcyon, it has become infamous as one of the greatest products that never made it to market. Although the Halcyon garnered a lot of enthusiastic early press during the prototype stage--certainly enough to get Gary Kildall's attention--the console never shipped a single retail unit.
-
-Simone de Rochefort explained in a 2018 retrospective for [Polygon](https://www.polygon.com/videos/2018/3/1/17063348/halcyon-rare-console-history), that while the Halcyon's promise may have predicted a future dominated by voice-operated home automation machines like Alexa and Siri, Rick Dyer's promised console was the wrong product at the wrong time:
+As for the Halcyon, it has become infamous as one of the greatest products that never made it to market. Although the Halcyon garnered a lot of enthusiastic early press during the prototype stage, the console never shipped a single retail unit. Simone de Rochefort explained in a 2018 retrospective for [Polygon](https://www.polygon.com/videos/2018/3/1/17063348/halcyon-rare-console-history), that while the Halcyon's may have foreshadowed a future dominated by voice-operated home automation machines like Alexa and Siri, Rick Dyer's promised console was the wrong product at the wrong time:
 
 >Halcyon was slated to come out in 1985, with a price tag of $2,500 for the voice-controlled model.
 >
@@ -126,7 +124,15 @@ Simone de Rochefort explained in a 2018 retrospective for [Polygon](https://www.
 >
 >The base model was only $90.
 
-While Dyer's investors got cold feet and RDI was out of business by the end of 1985, the pre-*Chronicles* hype for Halcyon was still quite real. The November 1984 issue of [*MicroTimes*](https://archive.org/details/microtimesvolume00bamp_1?q=halcyon+rdi) contained an especially enthusiastic review of *Thayer's Quest* from Jina Bacarr, who played the game on a Halcyon prototype unit at RDI's offices in Carlsbad, California:
+Of course, it was probably clear to anyone who watched Stewart Cheifet struggle to use the Halcyon's voice control during the demo that Rick Dyer's console was more vaporware than revolutionary hardware. Indeed, Gary Kildall himself later described the entire Halcyon segment as "the biggest waste of videotape, computer, and TV cable time that I had ever seen." Writing in a manuscript for his [unpublished memoirs](http://s3data.computerhistory.org/kildall-p.1-78-publishable-lowres.pdf), Kildall said his longtime co-host Cheifet "made a singluar error" by even booking Dyer and his prototype for the show. And even Dyer apparently knew things had gone poorly:
+
+>The crew was going to lunch. so we broke down the set. and I was left alone with [Dyer]. He wanted to do the segment over, because he felt " it just didn ' t go right." I can 't imagine how he could have come to this conclusion, do you?
+>
+>Tape's not rolling, and the set's hot lights are off. I patted [Dyer] on the back, and assured him that it would show well, but he should get HAL's feelings on it to make sure.
+
+On a semi-positive note, Kildall said the entire debacle "showed that natural languages and computers are not a good fit, and that was worthwhile."
+
+After Dyer's *Chronicles* appearance, his investors got cold feet and RDI was out of business by the end of 1985. Still, the pre-*Chronicles* hype for Halcyon was quite real. The November 1984 issue of [*MicroTimes*](https://archive.org/details/microtimesvolume00bamp_1?q=halcyon+rdi) contained an especially enthusiastic review of *Thayer's Quest* from Jina Bacarr, who played the game on a Halcyon prototype unit at RDI's offices in Carlsbad, California:
 
 >With keyboard at my fingertips and headset resting securely on my hair (there went my thirty dollar styling, but it was worth it), I awaited with great anticipation as the story began to unravel before my eyes.
 >
