@@ -18,7 +18,7 @@ paginate = 10
 [params]
   author = "S.M. Oliva"
   description = "A review of the PBS series that aired from 1983 to 2002. Written by S.M. Oliva."
-  avatar = "/img/cc-pirate.png"
+  avatar = "/img/cc-dg1.png"
 #  avatar = "/img/avatar.jpg"
   favicon = "/img/favicon.ico"
   menu_item_separator = " - "
