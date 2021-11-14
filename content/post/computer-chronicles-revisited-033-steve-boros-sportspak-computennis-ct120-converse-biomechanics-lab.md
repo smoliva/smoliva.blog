@@ -1,7 +1,7 @@
 ---
 title: Computer Chronicles Revisited, Part 33 — Steve Boros, Sportspak, CompuTennis CT120, and the Converse Biomechanics Lab
 description: The Computer Chronicles discusses computers in sports.
-date: 2021-11-13
+date: 2021-11-14
 categories:
   - "Computer Chronicles Revisited"
 tags:
@@ -139,7 +139,7 @@ In contrast to Qantel, Mohawk as a whole reported a $53 million loss for the 198
 ## Notes from the Random Access File
 
 + This episode is available at the [Internet Archive](https://archive.org/details/Computer1985_8) and has an original broadcast date of March 5, 1985.
-+ Lawrence L. Cone wrote a detailed article for the October 1985 issue of [*Byte*](https://archive.org/details/byte-magazine-1985-10/page/n121/mode/1up?view=theater) discussing his role in developing the control software for SkyCam, the subjet of one of Wendy Woods' features. Cone said he used an Osborne 1 to develop the program over a period of eight months. SkyCam itself made debuted during a preseason game between the San Diego Chargers and the San Francisco 49ers.
++ Lawrence L. Cone wrote a detailed article for the October 1985 issue of [*Byte*](https://archive.org/details/byte-magazine-1985-10/page/n121/mode/1up?view=theater) discussing his role in developing the control software for SkyCam, the subject of one of Wendy Woods' features. Cone said he used an Osborne 1 to develop the program over a period of eight months. SkyCam itself made debuted during a preseason game between the San Diego Chargers and the San Francisco 49ers.
 + CompuTennis was founded by Bill Jacobson, described in a [September 1984 *Sports Illustrated* profile](https://vault.si.com/vault/1984/09/17/a-computer-service-scores-points-with-a-good-many-tennis-players) as a "former South African amateur who had been applying computer technology to projects involving geophysical exploration." The CT120 was quickly adopted by the tennis community and remained the "industry standard" for statistical analysis until the mid-1990s.
 + The other Wendy Woods' subject, North Sails, is still very much in business. The privately held company started in 1957. It [introduced the concept of "digital sail design" in 1977](https://www.northsails.com/sailing/en/2017/03/1977-north-sails-introduces-digital-sail-design). The in-house computer designed process described in Woods' report apparently utilized a Cromemco microcomputer.
 + Richard Bunch remained with Converse until 1989. His most recent position was with [PerkinElmer](https://www.perkinelmer.com/), where he served as director of its microfluidics technology division from 2012 to 2016.
