@@ -147,7 +147,3 @@ Wozniak turned 71 on August 11. He was most recently in the news for [speaking o
 + Notably, the Osborne and Vector computers were all based on Gary Kildall's CP/M operating system, which may explain the relative lack of any Microsoft or DOS talk in this episode.
 + Osborne's use of the phrase "Clash of the Titans" was possibly a reference to the [1981 film](https://www.imdb.com/title/tt0082186/) starring Laurence Olivier.
 + If you watch this episode you might be wondering about Lore Harp McGovern's accent. She's originally from Poland. 
-
-## Support Me on Ko-fi
-
-I recently launched a [Ko-fi](https://ko-fi.com/smoliva) page to help defray my costs in running this blog. So if you would like to throw me a buck or two to help pay the VPS bills, I’d greatly appreciate it!

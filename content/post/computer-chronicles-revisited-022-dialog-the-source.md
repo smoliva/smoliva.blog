@@ -100,7 +100,3 @@ As for Summit, he remained with Dialog through its many ownership changes as a c
 + I recently learned that Paul Schindler [has a blog](https://psacot.typepad.com/)!
 + On top of all of Source Telecomputing Corporation's other problems, the company faced a trademark infringement lawsuit in 1986 from Source Services Corporation, an Illinois-based company that provided "career guidance and personnel placement services." The case survived summary judgment in a [published opinion](https://scholar.google.com/scholar_case?case=12533477862785406398), but I'm not sure about the final outcome. 
 + In case you're wondering why Summit used "laetrile and cyanide" for his research example, there was quite a bit of controversy in the 1970s and early 1980s over the use of laetrile--a bitter substance found in fruit pits--as a treatment for cancer. The U.S. government banned laetrile for medical use (over the objections of a number of state governments), because it produces cyanide when introduced into the body.
-
-## Support Me on Ko-fi
-
-I recently launched a [Ko-fi](https://ko-fi.com/smoliva) page to help defray my costs in running this blog. So if you would like to throw me a buck or two to help pay the VPS bills, I’d greatly appreciate it!

@@ -121,8 +121,3 @@ Kare remained at Apple until 1986, when she left to serve as creative director a
 + TeleLearning Systems' "Electronic University Network" was started by Ron Gordon, a former president of Atari. In a January 2018 article, [Cait Etherington](https://news.elearninginside.com/what-happened-to-the-electronic-university-network/) delved into what became of the project. She noted the tuition was "relatively affordable, ranging from $12 for a seminar up to $295 for credit-based university courses degree." By September 1985, there were about 15,000 students attending 1,700 different classes. But there were a "few bugs," such as students having to wait days for messages to reach their on-line instructors.
 + The IBM-compatible notebook teased by Kaypro may have been the [Kapypro 2000 laptop](http://www.oldcomputers.net/kaypro2000.html), which was released in 1985 and retailed for $1,995.
 + *Archon: The Light and the Dark* was one of the first games ever published by Electronic Arts, which was profiled in [Part 15 of this series](https://www.smoliva.blog/post/computer-chronicles-revisited-015-space-shuttle-excalibur-pinball-construction-set-dr-j-larry-bird/).
-
-## Support Me on Ko-fi
-
-I recently [launched a Ko-fi page](https://ko-fi.com/smoliva) to help defray my costs in running this blog. I'm not planning on offering any special benefits or paid tiers. But if you would like to throw me a buck or two to help pay the VPS bills, I'd greatly appreciate it!
-

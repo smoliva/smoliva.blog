@@ -136,7 +136,3 @@ The model seen on the *Computer Chronicles* came out in 1983 and resolved the FC
 + Aaron Marcus and Associates, the consulting firm that employed Michael Arent at the time of this episode, is still in business. In fact, Arent was the first employee hired by Aaron Marcus when he started his firm in 1982.
 + Unfortunately, I was not able to find any information about the fourth guest in this episode, Ann Chase.
 + The IRIS 1400 was a whale of a machine. The main cabinet weighed 200 pounds. The monitor and peripherals added another 100 or so.
-
-## Support Me on Ko-fi
-
-I recently [launched a Ko-fi page](https://ko-fi.com/smoliva) to help defray my costs in running this blog. So if you would like to throw me a buck or two to help pay the VPS bills, I’d greatly appreciate it!
