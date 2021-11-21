@@ -26,10 +26,6 @@ paginate = 10
     name = "Email"
     url = "mailto:smo@smoliva.com"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/chronrevisited"
-  [[params.social]]
     icon = "github"
     name = "Github"
     url = "https://github.com/smoliva"

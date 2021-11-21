@@ -1,5 +1,5 @@
 ---
-title: Computer Chronicles Revisited Special No. 1 -- The Elizabeth Arden Beauty Computer
+title: Computer Chronicles Revisited Special No. 1 — The Elizabeth Arden Beauty Computer
 description: Computer Chronicles Revisited discusses computers and makeup.
 date: 2021-11-15
 categories:
